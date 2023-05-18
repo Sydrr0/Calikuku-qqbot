@@ -1,0 +1,1719 @@
+[0m[2023-05-08 18:52:26,184][MainThread/DEBUG] PyCqBot: Using proactor: IocpProactor[0m
+[0m[2023-05-08 18:55:54,330][MainThread/DEBUG] PyCqBot: Using proactor: IocpProactor[0m
+[0m[2023-05-08 18:55:55,286][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-08 18:55:58,642][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-08 18:55:58,645][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-08 18:55:58,867][MainThread/DEBUG] PyCqBot: Using proactor: IocpProactor[0m
+[0m[2023-05-08 18:55:58,867][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-08 18:55:58,982][MainThread/DEBUG] PyCqBot: = connection is CONNECTING[0m
+[0m[2023-05-08 18:55:58,983][MainThread/DEBUG] PyCqBot: > GET / HTTP/1.1[0m
+[0m[2023-05-08 18:55:58,991][MainThread/DEBUG] PyCqBot: > Host: 127.0.0.1:8080[0m
+[0m[2023-05-08 18:55:58,991][MainThread/DEBUG] PyCqBot: > Upgrade: websocket[0m
+[0m[2023-05-08 18:55:58,992][MainThread/DEBUG] PyCqBot: > Connection: Upgrade[0m
+[0m[2023-05-08 18:55:58,992][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Key: 5W7lji6BnFbfzxLTPXYGUw==[0m
+[0m[2023-05-08 18:55:58,992][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Version: 13[0m
+[0m[2023-05-08 18:55:58,993][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits[0m
+[0m[2023-05-08 18:55:58,993][MainThread/DEBUG] PyCqBot: > User-Agent: Python/3.11 websockets/11.0.2[0m
+[0m[2023-05-08 18:55:58,995][MainThread/DEBUG] PyCqBot: < HTTP/1.1 101 Switching Protocols[0m
+[0m[2023-05-08 18:55:58,996][MainThread/DEBUG] PyCqBot: < Upgrade: websocket[0m
+[0m[2023-05-08 18:55:58,996][MainThread/DEBUG] PyCqBot: < Connection: Upgrade[0m
+[0m[2023-05-08 18:55:58,998][MainThread/DEBUG] PyCqBot: < Sec-WebSocket-Accept: GP2wzRbG2bvtf39Fc6mIxLREDzc=[0m
+[0m[2023-05-08 18:55:58,998][MainThread/DEBUG] PyCqBot: = connection is OPEN[0m
+[0m[2023-05-08 18:55:58,998][MainThread/DEBUG] PyCqBot: < TEXT '{"_post_method":2,"meta_event_type":"lifecycle"...ect","time":1683543358}' [133 bytes][0m
+[0m[2023-05-08 18:55:59,002][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_lifecycle_connect ÊÂ¼þ: {'_post_method': 2, 'meta_event_type': 'lifecycle', 'post_type': 'meta_event', 'self_id': 1209309260, 'sub_type': 'connect', 'time': 1683543358}[0m
+[0m[2023-05-08 18:55:59,002][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-08 18:59:02,381][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-08 18:59:05,499][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-08 18:59:05,500][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-08 18:59:06,035][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-08 18:59:06,068][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-08 18:59:35,854][command/INFO] PyCqBot: ¸ßÃÌËáîÆ£¨KYMnO4£© (qq=2562312527,ÈººÅ=686871654) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-08 18:59:49,672][command/INFO] PyCqBot: ¸ßÃÌËáîÆ£¨KYMnO4£© (qq=2562312527,ÈººÅ=686871654) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-08 19:09:43,689][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-08 19:09:46,886][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-08 19:09:46,886][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-08 19:09:46,995][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-08 19:09:47,119][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-08 19:15:43,432][command/INFO] PyCqBot: °®Ê÷ÍÜ (qq=379586238,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-08 19:16:14,770][command/INFO] PyCqBot: °®Ê÷ÍÜ (qq=379586238,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÔÞÉÍ×÷Õß[0m
+[0m[2023-05-08 19:16:38,098][command/INFO] PyCqBot: °®Ê÷ÍÜ (qq=379586238,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-08 19:20:49,754][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-08 19:21:59,949][command/INFO] PyCqBot: Ö¸Áî #µ±Ç°Ç÷ÊÆ ²»´æÔÚ...[0m
+[0m[2023-05-08 19:22:07,356][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-08 19:35:22,255][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-08 19:37:57,018][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-08 19:38:41,015][command/INFO] PyCqBot: Óôyf (qq=3406372949,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-08 19:39:51,938][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-08 19:40:45,131][command/INFO] PyCqBot: Óôyf (qq=3406372949,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÔÞÉÍ×÷Õß[0m
+[0m[2023-05-08 19:41:12,393][command/INFO] PyCqBot: Óôyf (qq=3406372949,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-08 19:42:14,837][command/INFO] PyCqBot: Óôyf (qq=3406372949,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-08 19:42:29,579][command/INFO] PyCqBot: Ö¸Áî #´ð±ç ²»´æÔÚ...[0m
+[0m[2023-05-08 19:42:32,874][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-08 19:42:40,363][command/INFO] PyCqBot: Ö¸Áî #elegent ²»´æÔÚ...[0m
+[0m[2023-05-08 19:50:29,744][MainThread/WARNING] PyCqBot: no close frame received or sent[0m
+[0m[2023-05-08 19:50:29,744][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (1/3)[0m
+[0m[2023-05-08 20:09:30,511][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-08 20:09:33,859][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-08 20:09:33,859][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-08 20:09:34,276][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-08 20:09:34,316][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-08 20:10:45,699][MainThread/DEBUG] PyCqBot: Using proactor: IocpProactor[0m
+[0m[2023-05-08 20:10:51,898][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-08 20:10:54,378][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-08 20:10:54,378][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-08 20:10:54,741][MainThread/DEBUG] PyCqBot: Using proactor: IocpProactor[0m
+[0m[2023-05-08 20:10:54,741][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-08 20:10:54,786][MainThread/DEBUG] PyCqBot: = connection is CONNECTING[0m
+[0m[2023-05-08 20:10:54,786][MainThread/DEBUG] PyCqBot: > GET / HTTP/1.1[0m
+[0m[2023-05-08 20:10:54,786][MainThread/DEBUG] PyCqBot: > Host: 127.0.0.1:8080[0m
+[0m[2023-05-08 20:10:54,790][MainThread/DEBUG] PyCqBot: > Upgrade: websocket[0m
+[0m[2023-05-08 20:10:54,790][MainThread/DEBUG] PyCqBot: > Connection: Upgrade[0m
+[0m[2023-05-08 20:10:54,790][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Key: crNnNIpMtSTsK65zepfKsA==[0m
+[0m[2023-05-08 20:10:54,790][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Version: 13[0m
+[0m[2023-05-08 20:10:54,790][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits[0m
+[0m[2023-05-08 20:10:54,790][MainThread/DEBUG] PyCqBot: > User-Agent: Python/3.11 websockets/11.0.2[0m
+[0m[2023-05-08 20:10:54,793][MainThread/DEBUG] PyCqBot: < HTTP/1.1 101 Switching Protocols[0m
+[0m[2023-05-08 20:10:54,793][MainThread/DEBUG] PyCqBot: < Upgrade: websocket[0m
+[0m[2023-05-08 20:10:54,794][MainThread/DEBUG] PyCqBot: < Connection: Upgrade[0m
+[0m[2023-05-08 20:10:54,794][MainThread/DEBUG] PyCqBot: < Sec-WebSocket-Accept: siLLu3bJZbEyXwkYHmvvWixVD70=[0m
+[0m[2023-05-08 20:10:54,794][MainThread/DEBUG] PyCqBot: = connection is OPEN[0m
+[0m[2023-05-08 20:10:54,794][MainThread/DEBUG] PyCqBot: < TEXT '{"_post_method":2,"meta_event_type":"lifecycle"...ect","time":1683547854}' [133 bytes][0m
+[0m[2023-05-08 20:10:54,794][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_lifecycle_connect ÊÂ¼þ: {'_post_method': 2, 'meta_event_type': 'lifecycle', 'post_type': 'meta_event', 'self_id': 1209309260, 'sub_type': 'connect', 'time': 1683547854}[0m
+[0m[2023-05-08 20:10:54,798][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-08 20:10:55,251][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...Êæ·þ","anonymous":null}\n' [392 bytes][0m
+[0m[2023-05-08 20:10:59,812][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...256,"anonymous":null}\n' [414 bytes][0m
+[0m[2023-05-08 20:10:59,812][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547859, 'self_id': 1209309260, 'sub_type': 'normal', 'message': 'Êæ·þ', 'message_seq': 169054, 'raw_message': 'Êæ·þ', 'user_id': 1228449248, 'font': 0, 'group_id': 725665163, 'sender': {'age': 0, 'area': '', 'card': 'È«Èºµ¹ÊýµÚÒ»¸»', 'level': '', 'nickname': 'GLaDOS', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 1228449248}, 'message_id': 436415256, 'anonymous': None}[0m
+[0m[2023-05-08 20:11:00,744][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...":194710385,"font":0}\n' [381 bytes][0m
+[0m[2023-05-08 20:11:00,745][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547860, 'self_id': 1209309260, 'sub_type': 'normal', 'message': 'a', 'raw_message': 'a', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Sydrr0', 'role': 'owner', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'anonymous': None, 'group_id': 257506703, 'message_seq': 1742, 'user_id': 2562312527, 'message_id': 194710385, 'font': 0}[0m
+[0m[2023-05-08 20:11:02,243][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":1076263731}\n' [407 bytes][0m
+[0m[2023-05-08 20:11:02,244][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547861, 'self_id': 1209309260, 'sub_type': 'normal', 'raw_message': 'Êæ·þ', 'sender': {'age': 0, 'area': '', 'card': '´óÄ»ÀÏÊ¦', 'level': '', 'nickname': 'Aassdb', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1076263731}, 'anonymous': None, 'group_id': 725665163, 'message_seq': 169055, 'message_id': 1828985742, 'font': 0, 'message': 'Êæ·þ', 'user_id': 1076263731}[0m
+[0m[2023-05-08 20:11:03,066][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"notice","notice_type":"group_reca..."user_id":2562312527}\n' [181 bytes][0m
+[0m[2023-05-08 20:11:03,066][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ notice_group_recall ÊÂ¼þ: {'post_type': 'notice', 'notice_type': 'group_recall', 'time': 1683547860, 'self_id': 1209309260, 'operator_id': 2562312527, 'message_id': 194710385, 'group_id': 257506703, 'user_id': 2562312527}[0m
+[0m[2023-05-08 20:11:06,553][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...ssage_id":-200455628}\n' [402 bytes][0m
+[0m[2023-05-08 20:11:06,553][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547866, 'self_id': 1209309260, 'sub_type': 'normal', 'font': 0, 'group_id': 725665163, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Î§³Ç.', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1649762514}, 'user_id': 1649762514, 'anonymous': None, 'message': 'ÎÒ¿´¿´', 'message_seq': 169056, 'raw_message': 'ÎÒ¿´¿´', 'message_id': -200455628}[0m
+[0m[2023-05-08 20:11:11,413][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":1649762514}\n' [409 bytes][0m
+[0m[2023-05-08 20:11:11,414][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547871, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'font': 0, 'group_id': 725665163, 'message_id': -2096465246, 'message': 'ÉÕµÈÒ»ÏÂ', 'message_seq': 169057, 'raw_message': 'ÉÕµÈÒ»ÏÂ', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Î§³Ç.', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1649762514}, 'user_id': 1649762514}[0m
+[0m[2023-05-08 20:11:14,818][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:11:14,879][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:11:34,382][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1683547871}}}\n' [396 bytes][0m
+[0m[2023-05-08 20:11:34,382][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_heartbeat ÊÂ¼þ: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683547894, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 40, 'packet_sent': 25, 'packet_lost': 0, 'message_received': 6, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683547871}}}[0m
+[0m[2023-05-08 20:11:34,398][MainThread/DEBUG] PyCqBot: websocket ÐÄÌø: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683547894, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 40, 'packet_sent': 25, 'packet_lost': 0, 'message_received': 6, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683547871}}}[0m
+[0m[2023-05-08 20:11:34,894][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:11:34,894][MainThread/DEBUG] PyCqBot: > PING a6 17 ac 4f [binary, 4 bytes][0m
+[0m[2023-05-08 20:11:34,905][MainThread/DEBUG] PyCqBot: < PONG a6 17 ac 4f [binary, 4 bytes][0m
+[0m[2023-05-08 20:11:34,905][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:11:40,343][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...ymous":null,"font":0}\n' [391 bytes][0m
+[0m[2023-05-08 20:11:40,343][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547900, 'self_id': 1209309260, 'sub_type': 'normal', 'message_seq': 169058, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Î§³Ç.', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1649762514}, 'message_id': 330655539, 'group_id': 725665163, 'message': '0.19', 'raw_message': '0.19', 'user_id': 1649762514, 'anonymous': None, 'font': 0}[0m
+[0m[2023-05-08 20:11:45,937][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...:1689409445,"font":0}\n' [400 bytes][0m
+[0m[2023-05-08 20:11:45,938][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547905, 'self_id': 1209309260, 'sub_type': 'normal', 'group_id': 725665163, 'message': '³É±¾30', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Î§³Ç.', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1649762514}, 'user_id': 1649762514, 'anonymous': None, 'message_seq': 169059, 'raw_message': '³É±¾30', 'message_id': 1689409445, 'font': 0}[0m
+[0m[2023-05-08 20:11:53,023][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...essage_id":910408898}\n' [384 bytes][0m
+[0m[2023-05-08 20:11:54,908][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:11:54,928][MainThread/DEBUG] PyCqBot: > PING f2 2b 22 02 [binary, 4 bytes][0m
+[0m[2023-05-08 20:11:54,964][MainThread/DEBUG] PyCqBot: < PONG f2 2b 22 02 [binary, 4 bytes][0m
+[0m[2023-05-08 20:11:54,964][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:11:56,339][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...026amp;is_origin=0]"}\n' [821 bytes][0m
+[0m[2023-05-08 20:11:56,377][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547916, 'self_id': 1209309260, 'sub_type': 'normal', 'sender': {'age': 0, 'area': '', 'card': 'Õ¬Ð¡ÍÃ233£¨À³°º¿­233ºÅ²Ö£©', 'level': '', 'nickname': 'ÈôÓÐÈôÎÞ', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2506156529}, 'font': 0, 'message': '[CQ:image,file=6ebb11c42a453142f501bfe5af4b37b1.image,subType=1,url=https://gchat.qpic.cn/gchatpic_new/2506156529/725665163-3122797610-6EBB11C42A453142F501BFE5AF4B37B1/0?term=3&amp;is_origin=0]', 'message_seq': 169061, 'user_id': 2506156529, 'message_id': 1095011412, 'anonymous': None, 'group_id': 725665163, 'raw_message': '[CQ:image,file=6ebb11c42a453142f501bfe5af4b37b1.image,subType=1,url=https://gchat.qpic.cn/gchatpic_new/2506156529/725665163-3122797610-6EBB11C42A453142F501BFE5AF4B37B1/0?term=3&amp;is_origin=0]'}[0m
+[0m[2023-05-08 20:11:57,751][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."group_id":725665163}\n' [409 bytes][0m
+[0m[2023-05-08 20:11:57,754][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547917, 'self_id': 1209309260, 'sub_type': 'normal', 'raw_message': '£¿', 'sender': {'age': 0, 'area': '', 'card': 'È«Èºµ¹ÊýµÚÒ»¸»', 'level': '', 'nickname': 'GLaDOS', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 1228449248}, 'user_id': 1228449248, 'anonymous': None, 'message_seq': 169062, 'message': '£¿', 'message_id': -665985554, 'font': 0, 'group_id': 725665163}[0m
+[0m[2023-05-08 20:12:04,491][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...026amp;is_origin=0]"}\n' [792 bytes][0m
+[0m[2023-05-08 20:12:04,491][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547924, 'self_id': 1209309260, 'sub_type': 'normal', 'raw_message': '[CQ:image,file=4e87f202e4637ebb12049973302e8076.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/1076263731/725665163-3169988820-4E87F202E4637EBB12049973302E8076/0?term=3&amp;is_origin=0]', 'anonymous': None, 'font': 0, 'message_seq': 169063, 'sender': {'age': 0, 'area': '', 'card': '´óÄ»ÀÏÊ¦', 'level': '', 'nickname': 'Aassdb', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1076263731}, 'user_id': 1076263731, 'message_id': -1354044040, 'group_id': 725665163, 'message': '[CQ:image,file=4e87f202e4637ebb12049973302e8076.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/1076263731/725665163-3169988820-4E87F202E4637EBB12049973302E8076/0?term=3&amp;is_origin=0]'}[0m
+[0m[2023-05-08 20:12:07,768][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":1076263731}\n' [426 bytes][0m
+[0m[2023-05-08 20:12:07,768][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683547927, 'self_id': 1209309260, 'sub_type': 'normal', 'font': 0, 'message': 'Ö±½ÓÕÇÁË3¿é', 'raw_message': 'Ö±½ÓÕÇÁË3¿é', 'sender': {'age': 0, 'area': '', 'card': '´óÄ»ÀÏÊ¦', 'level': '', 'nickname': 'Aassdb', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1076263731}, 'message_id': 825129179, 'anonymous': None, 'group_id': 725665163, 'message_seq': 169064, 'user_id': 1076263731}[0m
+[0m[2023-05-08 20:12:14,389][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1683547927}}}\n' [397 bytes][0m
+[0m[2023-05-08 20:12:14,389][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_heartbeat ÊÂ¼þ: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683547934, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 48, 'packet_sent': 26, 'packet_lost': 0, 'message_received': 13, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683547927}}}[0m
+[0m[2023-05-08 20:12:14,457][MainThread/DEBUG] PyCqBot: websocket ÐÄÌø: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683547934, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 48, 'packet_sent': 26, 'packet_lost': 0, 'message_received': 13, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683547927}}}[0m
+[0m[2023-05-08 20:12:14,982][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:12:14,982][MainThread/DEBUG] PyCqBot: > PING 84 d4 9e 54 [binary, 4 bytes][0m
+[0m[2023-05-08 20:12:15,024][MainThread/DEBUG] PyCqBot: < PONG 84 d4 9e 54 [binary, 4 bytes][0m
+[0m[2023-05-08 20:12:15,024][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:12:35,036][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:12:35,036][MainThread/DEBUG] PyCqBot: > PING 2f 55 53 dd [binary, 4 bytes][0m
+[0m[2023-05-08 20:12:35,075][MainThread/DEBUG] PyCqBot: < PONG 2f 55 53 dd [binary, 4 bytes][0m
+[0m[2023-05-08 20:12:35,075][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:12:54,383][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-08 20:12:54,383][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_heartbeat ÊÂ¼þ: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683547974, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 50, 'packet_sent': 28, 'packet_lost': 0, 'message_received': 13, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683547927}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:12:54,471][MainThread/DEBUG] PyCqBot: websocket ÐÄÌø: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683547974, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 50, 'packet_sent': 28, 'packet_lost': 0, 'message_received': 13, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683547927}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:12:55,090][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:12:55,091][MainThread/DEBUG] PyCqBot: > PING 70 55 cd 04 [binary, 4 bytes][0m
+[0m[2023-05-08 20:12:55,128][MainThread/DEBUG] PyCqBot: < PONG 70 55 cd 04 [binary, 4 bytes][0m
+[0m[2023-05-08 20:12:55,461][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:13:15,539][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:13:15,541][MainThread/DEBUG] PyCqBot: > PING '.\x079J' [text, 4 bytes][0m
+[0m[2023-05-08 20:13:15,573][MainThread/DEBUG] PyCqBot: < PONG '.\x079J' [text, 4 bytes][0m
+[0m[2023-05-08 20:13:15,577][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:13:32,744][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...3,"message":"30±ä125"}\n' [395 bytes][0m
+[0m[2023-05-08 20:13:34,388][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...2}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-08 20:13:34,389][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_heartbeat ÊÂ¼þ: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683548014, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 52, 'packet_sent': 29, 'packet_lost': 0, 'message_received': 14, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683548012}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:13:34,445][MainThread/DEBUG] PyCqBot: websocket ÐÄÌø: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683548014, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 52, 'packet_sent': 29, 'packet_lost': 0, 'message_received': 14, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683548012}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:13:35,598][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:13:35,598][MainThread/DEBUG] PyCqBot: > PING f0 9a be 56 [binary, 4 bytes][0m
+[0m[2023-05-08 20:13:35,638][MainThread/DEBUG] PyCqBot: < PONG f0 9a be 56 [binary, 4 bytes][0m
+[0m[2023-05-08 20:13:35,639][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:13:45,067][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...ssage_id":-551544329}\n' [439 bytes][0m
+[0m[2023-05-08 20:13:55,647][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:13:55,647][MainThread/DEBUG] PyCqBot: > PING 8a 7f 3d 40 [binary, 4 bytes][0m
+[0m[2023-05-08 20:13:55,685][MainThread/DEBUG] PyCqBot: < PONG 8a 7f 3d 40 [binary, 4 bytes][0m
+[0m[2023-05-08 20:13:55,686][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:14:10,562][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...user_id":1228449248}}\n' [416 bytes][0m
+[0m[2023-05-08 20:14:10,562][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683548050, 'self_id': 1209309260, 'sub_type': 'normal', 'group_id': 725665163, 'raw_message': 'VÎÒ50', 'user_id': 1228449248, 'message_id': -1473828511, 'anonymous': None, 'font': 0, 'message': 'VÎÒ50', 'message_seq': 169067, 'sender': {'age': 0, 'area': '', 'card': 'È«Èºµ¹ÊýµÚÒ»¸»', 'level': '', 'nickname': 'GLaDOS', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 1228449248}}[0m
+[0m[2023-05-08 20:14:14,394][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-08 20:14:14,394][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_heartbeat ÊÂ¼þ: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683548054, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 55, 'packet_sent': 30, 'packet_lost': 0, 'message_received': 16, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683548050}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:14:14,446][MainThread/DEBUG] PyCqBot: websocket ÐÄÌø: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683548054, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 55, 'packet_sent': 30, 'packet_lost': 0, 'message_received': 16, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683548050}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:14:15,686][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:14:15,690][MainThread/DEBUG] PyCqBot: > PING 1e ca 47 66 [binary, 4 bytes][0m
+[0m[2023-05-08 20:14:15,724][MainThread/DEBUG] PyCqBot: < PONG 1e ca 47 66 [binary, 4 bytes][0m
+[0m[2023-05-08 20:14:15,725][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:14:35,737][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:14:35,737][MainThread/DEBUG] PyCqBot: > PING 60 f5 cf 1b [binary, 4 bytes][0m
+[0m[2023-05-08 20:14:35,774][MainThread/DEBUG] PyCqBot: < PONG 60 f5 cf 1b [binary, 4 bytes][0m
+[0m[2023-05-08 20:14:35,774][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:14:54,388][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-08 20:14:54,388][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_heartbeat ÊÂ¼þ: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683548094, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 58, 'packet_sent': 33, 'packet_lost': 0, 'message_received': 16, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683548050}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:14:54,444][MainThread/DEBUG] PyCqBot: websocket ÐÄÌø: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683548094, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 58, 'packet_sent': 33, 'packet_lost': 0, 'message_received': 16, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683548050}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:14:55,344][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...essage_id":949499120}\n' [443 bytes][0m
+[0m[2023-05-08 20:14:55,345][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683548095, 'self_id': 1209309260, 'sub_type': 'normal', 'font': 0, 'raw_message': '[CQ:redbag,title=´ó¼ª´óÀû]', 'anonymous': None, 'group_id': 725665163, 'message': '[CQ:redbag,title=´ó¼ª´óÀû]', 'message_seq': 169068, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Î§³Ç.', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1649762514}, 'user_id': 1649762514, 'message_id': 949499120}[0m
+[0m[2023-05-08 20:14:55,810][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:14:55,830][MainThread/DEBUG] PyCqBot: > PING 71 0f ae 5f [binary, 4 bytes][0m
+[0m[2023-05-08 20:14:55,866][MainThread/DEBUG] PyCqBot: < PONG 71 0f ae 5f [binary, 4 bytes][0m
+[0m[2023-05-08 20:14:55,873][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:15:08,836][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":1528541048}\n' [435 bytes][0m
+[0m[2023-05-08 20:15:08,836][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683548108, 'self_id': 1209309260, 'sub_type': 'normal', 'group_id': 725665163, 'message_seq': 169069, 'raw_message': 'ºÃËÆ', 'message_id': 1335821414, 'anonymous': None, 'font': 0, 'message': 'ºÃËÆ', 'sender': {'age': 0, 'area': '', 'card': '»á¿÷ÍùÍùÊÇÒòÎªÄãÄóµÄ²»¹»¾Ã°ÕÁË', 'level': '', 'nickname': 'K', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1528541048}, 'user_id': 1528541048}[0m
+[0m[2023-05-08 20:15:15,878][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:15:15,878][MainThread/DEBUG] PyCqBot: > PING ']\n^f' [text, 4 bytes][0m
+[0m[2023-05-08 20:15:15,913][MainThread/DEBUG] PyCqBot: < PONG ']\n^f' [text, 4 bytes][0m
+[0m[2023-05-08 20:15:15,913][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:15:18,551][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...user_id":1649762514}}\n' [416 bytes][0m
+[0m[2023-05-08 20:15:18,552][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683548118, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'font': 0, 'group_id': 725665163, 'message_seq': 169071, 'user_id': 1649762514, 'message_id': 1482669333, 'message': '[CQ:face,id=182]', 'raw_message': '[CQ:face,id=182]', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Î§³Ç.', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1649762514}}[0m
+[0m[2023-05-08 20:15:18,623][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...essage_id":794332547}\n' [632 bytes][0m
+[0m[2023-05-08 20:15:18,688][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683548118, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'message': '×Ü½áÁËÒ»ÏÂ ÃÉ¹ÅÀº×ÓÃ»Ó®ÓÐÈý¸öÔ­Òò Ò»ÊÇÃ»¶ÏÍø ¶þÊÇ²»ÔÚÎÚÀ¼°ÍÍÐ ÈýÊÇÐ¡º¢¶ùÃ»·¢ÉÕ', 'message_seq': 169070, 'raw_message': '×Ü½áÁËÒ»ÏÂ ÃÉ¹ÅÀº×ÓÃ»Ó®ÓÐÈý¸öÔ­Òò Ò»ÊÇÃ»¶ÏÍø ¶þÊÇ²»ÔÚÎÚÀ¼°ÍÍÐ ÈýÊÇÐ¡º¢¶ùÃ»·¢ÉÕ', 'font': 0, 'group_id': 725665163, 'sender': {'age': 0, 'area': '', 'card': 'È«Èºµ¹ÊýµÚÒ»¸»', 'level': '', 'nickname': 'GLaDOS', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 1228449248}, 'user_id': 1228449248, 'message_id': 794332547}[0m
+[0m[2023-05-08 20:15:29,598][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."raw_message":"Ë¨qË§¸ç"}\n' [404 bytes][0m
+[0m[2023-05-08 20:15:29,598][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ message_group_normal ÊÂ¼þ: {'post_type': 'message', 'message_type': 'group', 'time': 1683548129, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'message_seq': 169072, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'ÎÞÀí', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2975409489}, 'user_id': 2975409489, 'message_id': -1051267921, 'font': 0, 'group_id': 725665163, 'message': 'Ë¨qË§¸ç', 'raw_message': 'Ë¨qË§¸ç'}[0m
+[0m[2023-05-08 20:15:34,385][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...9}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-08 20:15:34,385][MainThread/DEBUG] PyCqBot: go-cqhttp ÉÏ±¨ meta_event_heartbeat ÊÂ¼þ: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683548134, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 64, 'packet_sent': 34, 'packet_lost': 0, 'message_received': 21, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683548129}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:15:34,509][MainThread/DEBUG] PyCqBot: websocket ÐÄÌø: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1683548134, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 64, 'packet_sent': 34, 'packet_lost': 0, 'message_received': 21, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1683548129}}, 'interval': 40000}[0m
+[0m[2023-05-08 20:15:35,912][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-08 20:15:35,912][MainThread/DEBUG] PyCqBot: > PING 20 d3 f6 f2 [binary, 4 bytes][0m
+[0m[2023-05-08 20:15:35,953][MainThread/DEBUG] PyCqBot: < PONG 20 d3 f6 f2 [binary, 4 bytes][0m
+[0m[2023-05-08 20:15:35,953][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-08 20:17:13,722][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-08 20:17:16,508][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-08 20:17:16,508][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-08 20:17:16,893][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-08 20:17:16,929][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-08 20:21:13,274][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-08 20:21:16,174][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-08 20:21:16,174][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-08 20:21:16,447][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-08 20:21:16,486][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-08 20:21:37,826][command/INFO] PyCqBot: Ö¸Áî #Ç÷ÊÆ ²»´æÔÚ...[0m
+[0m[2023-05-08 20:21:44,670][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 11:52:08,314][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 11:52:12,128][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 11:52:12,131][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 11:52:12,441][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 11:52:12,522][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 11:52:20,390][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 11:52:29,511][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot ÁéÓ±·á (qq=3575921647,ÈººÅ=934541995) [0m
+[0m[2023-05-09 11:56:09,982][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 11:56:10,760][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 11:56:12,040][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 11:56:12,042][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 11:56:12,143][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 11:56:14,364][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 11:56:14,365][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 11:56:14,511][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 11:56:14,630][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 11:58:48,930][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 11:58:49,693][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 11:58:51,185][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 11:58:51,187][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 11:58:51,211][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 11:58:53,313][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 11:58:53,314][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 11:58:53,446][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 11:58:53,509][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:00:00,207][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:00:01,006][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:00:02,420][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:00:02,422][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:00:02,478][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:00:04,609][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:00:04,610][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:00:04,730][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:00:04,826][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:00:47,691][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:00:48,504][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:00:49,985][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:00:49,986][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:00:50,031][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:00:52,146][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:00:52,148][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:00:52,210][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:00:52,261][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:08:49,847][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:08:50,601][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:08:52,127][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:08:52,129][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:08:52,181][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:08:52,329][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:08:52,330][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:08:52,352][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:08:54,339][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:08:54,341][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:08:54,370][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:08:54,429][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:08:59,769][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 12:09:20,971][command/INFO] PyCqBot: Ö¸Áî #ÌìÆø ²»´æÔÚ...[0m
+[0m[2023-05-09 12:09:46,689][command/INFO] PyCqBot: Ö¸Áî #ÌìÆø ²»´æÔÚ...[0m
+[0m[2023-05-09 12:11:14,406][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:11:15,268][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:11:16,643][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:11:16,644][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:11:16,680][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:11:16,797][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:11:16,798][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:11:16,817][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:11:19,080][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:11:19,083][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:11:19,420][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:11:19,469][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:11:22,063][command/INFO] PyCqBot: Ö¸Áî #ÌìÆø ²»´æÔÚ...[0m
+[0m[2023-05-09 12:11:47,351][command/INFO] PyCqBot: Ö¸Áî #ÏëÄî ²»´æÔÚ...[0m
+[0m[2023-05-09 12:11:52,236][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 12:11:58,673][command/INFO] PyCqBot: Ö¸Áî #ÔÞÉÍ ²»´æÔÚ...[0m
+[0m[2023-05-09 12:12:11,402][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÔÞÉÍ×÷Õß[0m
+[0m[2023-05-09 12:13:55,232][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:13:59,109][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:13:59,112][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:13:59,411][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:13:59,492][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:14:00,971][command/INFO] PyCqBot: Ö¸Áî #ÌìÆø ²»´æÔÚ...[0m
+[0m[2023-05-09 12:14:07,926][command/INFO] PyCqBot: Ö¸Áî #Ç÷ÊÆ ²»´æÔÚ...[0m
+[0m[2023-05-09 12:19:21,630][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:19:25,271][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:19:25,272][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:19:25,699][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:19:25,740][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:19:33,383][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-09 12:19:36,339][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-09 12:19:44,124][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢ÉúÖÂÃü´íÎó open cache image db failed: The process cannot access the file because it is being used by another process.[0m
+[0m[2023-05-09 12:20:08,519][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:20:09,423][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:20:10,774][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:20:10,775][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:20:10,816][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:20:10,932][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:20:10,934][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:20:10,953][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:20:13,193][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:20:13,194][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:20:13,527][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:20:13,583][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:21:20,417][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 12:21:47,196][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:21:48,041][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:21:49,441][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:21:49,443][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:21:49,484][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:21:49,657][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:21:49,658][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:21:49,677][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:21:51,671][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:21:51,673][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:21:51,716][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:21:51,760][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:25:47,384][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:25:48,240][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:25:49,633][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:25:49,634][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:25:49,650][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:25:49,774][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:25:49,775][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:25:49,809][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:25:51,940][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:25:51,941][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:25:52,397][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:25:52,434][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:26:07,426][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 12:28:11,426][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:28:12,351][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:28:13,656][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:28:13,658][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:28:13,720][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:28:13,797][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:28:13,798][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:28:13,813][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:28:16,169][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:28:16,171][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:28:16,440][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:28:16,497][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:30:49,455][MainThread/INFO] PyCqBot: ´´½¨¶¨Ê±ÈÎÎñ timejob [0m
+[0m[2023-05-09 12:30:52,047][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:30:52,049][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:30:52,068][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:30:52,437][asyncHttp_loop/ERROR] PyCqBot: api ÇëÇó·¢Éú´íÎó Error: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+[0m[2023-05-09 12:30:52,438][asyncHttp_loop/ERROR] PyCqBot: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£][0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 980, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1085, in create_connection
+    raise exceptions[0]
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1069, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 973, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 726, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 846, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 633, in finish_connect
+    ov.getresult()
+ConnectionRefusedError: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\asyncHttp.py", line 73, in link
+    async with self._session.post(url, data=data, allow_redirects=allow_redirects, proxy=proxy, headers=headers) as req:
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\connector.py", line 988, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host 127.0.0.1:5700 ssl:default [Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£]
+[0m[2023-05-09 12:30:52,451][asyncHttp_loop/WARNING] PyCqBot: cqAPI ÏìÓ¦: None / {}[0m
+[0m[2023-05-09 12:32:03,746][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:32:07,542][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:32:07,543][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:32:07,900][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:32:07,935][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:32:20,947][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:32:24,634][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:32:24,635][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:32:25,137][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:32:25,184][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:56:25,654][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 12:56:29,630][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 12:56:29,632][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 12:56:29,847][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 12:56:29,904][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 12:57:00,040][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-09 12:57:10,395][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 13:22:15,271][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 13:31:11,255][command/INFO] PyCqBot: Éêð©ÎÄ (qq=3136879636,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 13:31:26,687][command/INFO] PyCqBot: Éêð©ÎÄ (qq=3136879636,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 13:33:20,420][command/INFO] PyCqBot: ´óÊóÀÏÊ¦ (qq=2665567313,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 13:33:29,764][command/INFO] PyCqBot: ´óÊóÀÏÊ¦ (qq=2665567313,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 13:34:44,738][command/INFO] PyCqBot: ´óÊóÀÏÊ¦ (qq=2665567313,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #status[0m
+[0m[2023-05-09 13:34:44,739][command/INFO] PyCqBot: ´óÊóÀÏÊ¦ (qq=2665567313,ÈººÅ=725665163) È¨ÏÞ²»×ã... Ö¸Áî #status[0m
+[0m[2023-05-09 13:45:38,855][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-09 13:46:05,304][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-09 13:46:09,964][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-09 13:51:05,771][command/INFO] PyCqBot: ÄÜ²»ÄÜÒ»ÆðÓÃÓÆÓÆµÖÖÆbuff (qq=2562312527,ÈººÅ=778471917) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 14:13:02,410][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 14:13:41,633][command/INFO] PyCqBot: ÄÜ²»ÄÜÒ»ÆðÓÃÓÆÓÆµÖÖÆbuff (qq=2562312527,ÈººÅ=778471917) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 14:17:24,927][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> parse incoming packet error: invalid packet type[0m
+[0m[2023-05-09 14:17:24,930][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.6:54157->36.155.209.114:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-09 14:32:49,920][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 14:32:55,333][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 14:32:55,334][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 14:32:55,580][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 14:32:55,652][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 14:33:11,337][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 14:42:03,072][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ »Ö¸´»á»°Ê§°Ü: exchange_emp failed: 40 , ³¢ÊÔÊ¹ÓÃÕý³£Á÷³ÌµÇÂ¼.[0m
+[0m[2023-05-09 14:44:05,457][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢ÉúÖÂÃü´íÎó ¶þÎ¬Âë¹ýÆÚ[0m
+[0m[2023-05-09 14:44:34,565][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕËºÅÃÜÂëÎ´ÅäÖÃ, ½«Ê¹ÓÃ¶þÎ¬ÂëµÇÂ¼.[0m
+[0m[2023-05-09 14:44:54,239][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 14:44:58,671][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 14:44:58,673][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 14:44:58,939][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 14:44:58,998][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 14:45:19,783][command/INFO] PyCqBot: Ö¸Áî #Ê¯ÁÛ ²»´æÔÚ...[0m
+[0m[2023-05-09 14:46:01,092][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 14:46:06,901][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 14:46:06,903][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 14:46:07,329][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 14:46:07,395][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 14:46:14,811][command/INFO] PyCqBot: Ö¸Áî #Ê¯ÁÛ ²»´æÔÚ...[0m
+[0m[2023-05-09 14:46:18,741][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 14:46:23,375][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 14:46:29,415][command/INFO] PyCqBot: Ö¸Áî #Ê¯ÁÛ ²»´æÔÚ...[0m
+[0m[2023-05-09 14:46:45,830][command/INFO] PyCqBot: Ö¸Áî # Ê¯ÁÛ ²»´æÔÚ...[0m
+[0m[2023-05-09 14:47:54,934][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 14:48:00,311][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 14:48:00,311][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 14:48:00,658][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 14:48:00,700][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 14:48:05,253][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 14:48:16,990][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 14:49:15,093][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 14:49:51,181][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 14:50:07,342][command/INFO] PyCqBot: Ö¸Áî #Ó¡»¨ | ·¢ÏÖµÐÈË£¨È«Ï¢£© ²»´æÔÚ...[0m
+[0m[2023-05-09 14:53:52,220][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢ÉúÖÂÃü´íÎó open cache image db failed: The process cannot access the file because it is being used by another process.[0m
+[0m[2023-05-09 14:54:08,785][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 14:54:14,028][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 14:54:14,029][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 14:54:14,510][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 14:54:14,546][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 15:21:28,292][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 15:22:20,267][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 15:22:50,255][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 15:23:15,599][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 15:23:22,847][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 15:23:56,324][command/INFO] PyCqBot: Ö¸Áî #°¢Å¬±ÈË¹ ²»´æÔÚ...[0m
+[0m[2023-05-09 15:25:15,488][command/INFO] PyCqBot: Ö¸Áî #ÌýËûµÄ ²»´æÔÚ...[0m
+[0m[2023-05-09 15:25:42,114][command/INFO] PyCqBot: Ö¸Áî #ÔÞÉÍ ²»´æÔÚ...[0m
+[0m[2023-05-09 15:25:49,919][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #ÔÞÉÍ×÷Õß[0m
+[0m[2023-05-09 15:27:11,758][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-09 15:33:36,556][command/INFO] PyCqBot: Ö¸Áî #Ô¶¹Å¾ÞÊÞ ²»´æÔÚ...[0m
+[0m[2023-05-09 15:37:49,487][command/INFO] PyCqBot: Ö¸Áî #¾ÞÁú´«Ëµ ²»´æÔÚ...[0m
+[0m[2023-05-09 15:40:50,260][command/INFO] PyCqBot: Ö¸Áî #À×»÷ ²»´æÔÚ...[0m
+[0m[2023-05-09 15:48:05,624][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> parse incoming packet error: invalid packet type[0m
+[0m[2023-05-09 15:48:05,626][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.6:56350->36.155.213.212:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-09 16:00:57,258][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 16:01:02,935][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 16:01:02,935][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 16:01:03,434][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 16:01:03,508][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 16:58:50,008][command/INFO] PyCqBot: ÄÜ²»ÄÜÒ»ÆðÓÃÓÆÓÆµÖÖÆbuff (qq=2562312527,ÈººÅ=778471917) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 17:19:03,968][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 17:38:59,783][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 17:39:12,596][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 18:01:26,633][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 18:01:32,141][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 18:01:32,144][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 18:01:32,328][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 18:01:32,515][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 18:28:19,499][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.6:63670->36.155.210.174:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-09 19:49:00,029][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 19:49:05,900][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 19:49:05,901][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 19:49:05,914][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 19:49:06,010][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 19:49:11,680][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 19:49:25,034][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 19:49:43,312][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 19:50:12,220][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 20:22:09,456][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 20:22:14,832][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 20:22:14,834][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 20:22:15,016][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 20:22:15,086][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 20:22:25,086][command/INFO] PyCqBot: Ö¸Áî #´òÉÍ ²»´æÔÚ...[0m
+[0m[2023-05-09 20:22:43,670][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 20:22:51,760][command/INFO] PyCqBot: Ö¸Áî #´òÉÍ ²»´æÔÚ...[0m
+[0m[2023-05-09 20:23:31,874][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 20:23:37,541][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 20:23:37,542][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 20:23:37,931][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 20:23:37,967][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 20:23:38,525][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #´òÉÍ[0m
+[0m[2023-05-09 20:24:23,978][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 20:24:29,446][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 20:24:29,448][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 20:24:29,696][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 20:24:29,731][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 20:24:33,365][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #´òÉÍ[0m
+[0m[2023-05-09 20:24:44,291][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #´òÉÍ[0m
+[0m[2023-05-09 20:32:23,861][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot ÃÛ·äÀÏÊ¦ (qq=3259258590,ÈººÅ=725665163) [0m
+[0m[2023-05-09 20:32:23,861][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot ÃÛ·äÀÏÊ¦ (qq=3259258590,ÈººÅ=725665163) [0m
+[0m[2023-05-09 20:54:37,223][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 20:54:42,463][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 20:54:42,463][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 20:54:42,855][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 20:54:42,908][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 20:54:44,894][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 20:55:38,751][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 20:55:44,361][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 20:55:44,362][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 20:55:44,428][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 20:55:44,464][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 20:55:47,477][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 20:58:14,957][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 20:58:20,594][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 20:58:20,596][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 20:58:20,663][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 20:58:20,697][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 20:58:26,174][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 21:04:01,663][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 21:04:07,022][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 21:04:07,024][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 21:04:07,207][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 21:04:07,256][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 21:04:08,792][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #Õ½ºÛÀÛÀÛ[0m
+[0m[2023-05-09 21:04:22,048][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 21:05:08,990][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 21:05:14,459][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 21:05:14,462][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 21:05:14,671][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 21:05:14,705][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 21:05:25,612][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Õ½ºÛÀÛÀÛ[0m
+[0m[2023-05-09 21:05:33,801][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 21:10:40,247][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-09 21:10:45,646][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-09 21:10:45,648][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-09 21:10:45,892][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 21:10:45,926][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-09 21:11:15,628][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 21:11:24,040][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 21:13:38,439][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-09 21:25:13,667][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-09 21:25:53,806][command/INFO] PyCqBot: Óôyf (qq=3406372949,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-09 21:27:46,850][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-09 21:28:23,044][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-09 21:29:14,479][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-09 21:30:31,657][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Õ½ºÛÀÛÀÛ[0m
+[0m[2023-05-09 21:53:21,914][command/INFO] PyCqBot: CH3-O-CH3 (qq=496081972,ÈººÅ=773677626) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 21:56:13,106][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=773677626) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-09 21:56:28,429][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=773677626) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-09 21:57:04,631][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.6:56695->36.155.248.239:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-09 21:57:55,533][command/INFO] PyCqBot: Ö¸Áî #ÉßÊÉ ²»´æÔÚ...[0m
+[0m[2023-05-09 21:58:06,647][command/INFO] PyCqBot: Ö¸Áî #ÉßÊÉÎäÆ÷Ïä ²»´æÔÚ...[0m
+[0m[2023-05-09 21:58:58,406][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=773677626) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-09 21:59:09,208][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=773677626) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-09 21:59:25,358][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=773677626) Ê¹ÓÃÖ¸Áî: #´òÉÍ[0m
+[0m[2023-05-09 22:07:05,652][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.6:57583->111.31.205.202:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-09 22:07:05,653][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:8080: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-09 22:07:05,727][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.46:8080: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-09 22:07:05,729][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ BotÒÑÀëÏß: connection dropped by server.[0m
+[0m[2023-05-09 22:07:08,669][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ½«ÔÚ 3 Ãëºó³¢ÊÔÖØÁ¬. ÖØÁ¬´ÎÊý£º2/0[0m
+[0m[2023-05-09 22:07:11,676][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ³¢ÊÔÖØÁ¬...[0m
+[0m[2023-05-09 22:07:11,686][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 111.31.205.184:80: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-09 22:07:11,725][MainThread/WARNING] PyCqBot: no close frame received or sent[0m
+[0m[2023-05-09 22:07:11,759][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ¿ìËÙÖØÁ¬Ê§°Ü: dial tcp error: dial tcp 111.31.205.184:80: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-09 22:07:11,761][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (1/3)[0m
+[0m[2023-05-09 22:07:11,763][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢ÉúÖÂÃü´íÎó ¿ìËÙÖØÁ¬Ê§°Ü, É¨ÂëµÇÂ¼ÎÞ·¨»Ö¸´»á»°.[0m
+[0m[2023-05-09 22:07:21,765][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 22:07:23,799][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-09 22:07:23,800][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (2/3)[0m
+[0m[2023-05-09 22:07:33,838][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 22:07:35,881][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-09 22:07:35,883][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (3/3)[0m
+[0m[2023-05-09 22:07:45,917][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-09 22:07:47,942][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-09 22:07:47,950][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (4/3)[0m
+[0m[2023-05-10 07:26:19,971][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 07:26:26,836][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 07:26:26,837][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 07:26:26,945][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 07:26:27,028][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 07:26:46,961][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 07:27:07,635][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-10 07:27:29,597][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-10 07:27:54,127][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Õ½ºÛÀÛÀÛ[0m
+[0m[2023-05-10 07:56:40,360][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 08:24:05,270][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.6:62092->36.155.213.223:8080: wsarecv: An established connection was aborted by the software in your host machine.[0m
+[0m[2023-05-10 08:24:26,573][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 111.30.169.45:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-10 08:24:26,574][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 111.30.169.45:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-10 08:24:26,576][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ BotÒÑÀëÏß: connection dropped by server.[0m
+[0m[2023-05-10 08:24:29,588][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ½«ÔÚ 3 Ãëºó³¢ÊÔÖØÁ¬. ÖØÁ¬´ÎÊý£º2/0[0m
+[0m[2023-05-10 08:24:32,596][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ³¢ÊÔÖØÁ¬...[0m
+[0m[2023-05-10 08:24:49,040][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 120.232.67.190:8080: connectex: An established connection was aborted by the software in your host machine.[0m
+[0m[2023-05-10 08:24:49,135][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ¿ìËÙÖØÁ¬Ê§°Ü: dial tcp error: dial tcp 120.232.67.190:8080: connectex: An established connection was aborted by the software in your host machine.[0m
+[0m[2023-05-10 08:24:49,140][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢ÉúÖÂÃü´íÎó ¿ìËÙÖØÁ¬Ê§°Ü, É¨ÂëµÇÂ¼ÎÞ·¨»Ö¸´»á»°.[0m
+[0m[2023-05-10 08:24:50,155][MainThread/WARNING] PyCqBot: no close frame received or sent[0m
+[0m[2023-05-10 08:24:50,213][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (1/3)[0m
+[0m[2023-05-10 08:25:00,355][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 08:25:03,289][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-10 08:25:03,464][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (2/3)[0m
+[0m[2023-05-10 08:25:13,506][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 08:25:15,733][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-10 08:25:15,749][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (3/3)[0m
+[0m[2023-05-10 08:25:25,758][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 08:25:28,140][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-10 08:25:28,159][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (4/3)[0m
+[0m[2023-05-10 08:53:32,881][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 08:53:39,970][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 08:53:39,970][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 08:53:40,243][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 08:53:40,336][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 08:54:01,349][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-10 08:55:23,582][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=773677626) Ê¹ÓÃÖ¸Áî: #´òÉÍ[0m
+[0m[2023-05-10 08:58:50,487][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #´òÉÍ[0m
+[0m[2023-05-10 09:20:26,062][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 09:20:33,018][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 09:20:33,019][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 09:20:33,372][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 09:20:33,437][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 09:20:35,247][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-10 09:21:04,585][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-10 10:35:29,295][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 10:35:36,192][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 10:35:36,196][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 10:35:36,516][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 10:35:36,605][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 10:35:46,203][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ¼ì²é¸üÐÂÊ§°Ü: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": context deadline exceeded (Client.Timeout exceeded while awaiting headers)[0m
+[0m[2023-05-10 10:36:24,609][command/INFO] PyCqBot: ÃÛ·äÀÏÊ¦ (qq=3259258590,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #´òÉÍ[0m
+[0m[2023-05-10 10:37:31,542][command/INFO] PyCqBot: all in (qq=1649762514,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 12:21:02,941][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> parse incoming packet error: invalid packet type[0m
+[0m[2023-05-10 12:21:02,943][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.3:53747->36.155.201.31:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-10 12:58:04,769][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.3:54531->111.30.169.43:443: wsarecv: An existing connection was forcibly closed by the remote host.[0m
+[0m[2023-05-10 13:08:49,029][command/INFO] PyCqBot: ÃÛ·äÀÏÊ¦ (qq=3259258590,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 16:17:38,536][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 16:17:45,505][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 16:17:45,508][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 16:17:45,961][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 16:17:46,022][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 17:34:48,022][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 18:19:27,017][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ê¯ÁÛ[0m
+[0m[2023-05-10 18:19:55,025][command/INFO] PyCqBot: Ö¸Áî #Ò»·¢Èë»ê ²»´æÔÚ...[0m
+[0m[2023-05-10 18:35:14,825][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 18:35:22,374][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 18:35:22,379][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 18:35:22,668][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 18:35:22,747][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 18:35:31,200][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #a1Ó¡»¨¼¯[0m
+[0m[2023-05-10 18:35:31,200][command/INFO] PyCqBot: Ö¸Áî #a1Ó¡»¨¼¯ ÔËÐÐÊ±´íÎó... Error: module 'mini_price_get_uspyhj' has no attribute 'get_data_usp'[0m
+[0m[2023-05-10 18:35:31,203][command/ERROR] PyCqBot: module 'mini_price_get_uspyhj' has no attribute 'get_data_usp'[0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 1241, in run_command
+    self.__commandList[command]["function"](commandData, message)
+  File "d:\mybot\csgo_bot.py", line 63, in get_uspyhj
+    result = mini_price_get_uspyhj.get_data_usp()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'mini_price_get_uspyhj' has no attribute 'get_data_usp'
+[0m[2023-05-10 18:36:40,383][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 18:36:48,073][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 18:36:48,075][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 18:36:48,558][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 18:36:48,602][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 18:36:49,062][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #a1Ó¡»¨¼¯[0m
+[0m[2023-05-10 18:37:30,326][command/INFO] PyCqBot: Ö¸Áî #uspÓ¡»¨¼¯ ²»´æÔÚ...[0m
+[0m[2023-05-10 18:40:21,906][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 18:40:29,006][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 18:40:29,009][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 18:40:29,089][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 18:40:29,137][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 18:41:14,531][command/INFO] PyCqBot: Ö¸Áî #uspÓ¡»¨¼¯ ²»´æÔÚ...[0m
+[0m[2023-05-10 18:41:31,425][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Õ½ºÛÀÛÀÛ[0m
+[0m[2023-05-10 18:41:57,410][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-10 18:42:07,211][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #a1Ó¡»¨¼¯[0m
+[0m[2023-05-10 18:42:33,857][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 18:42:40,727][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 18:42:40,729][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 18:42:40,798][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 18:42:40,837][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 18:42:42,563][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #a1Ó¡»¨¼¯[0m
+[0m[2023-05-10 18:42:54,500][command/INFO] PyCqBot: Ö¸Áî #uspÓ¡»¨¼¯ ²»´æÔÚ...[0m
+[0m[2023-05-10 18:43:46,176][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 18:43:52,828][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 18:43:52,829][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 18:43:53,256][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 18:43:53,316][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 18:43:54,441][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #a1Ó¡»¨¼¯[0m
+[0m[2023-05-10 18:43:59,888][command/INFO] PyCqBot: Ö¸Áî #uspÓ¡»¨¼¯ ²»´æÔÚ...[0m
+[0m[2023-05-10 18:44:38,240][command/INFO] PyCqBot: Ö¸Áî #uspÓ¡»¨¼¯ ²»´æÔÚ...[0m
+[0m[2023-05-10 19:23:35,805][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 19:23:43,238][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 19:23:43,241][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 19:23:43,480][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 19:23:43,553][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 19:24:52,725][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #USP[0m
+[0m[2023-05-10 19:24:57,438][command/INFO] PyCqBot: Ö¸Áî #usp ²»´æÔÚ...[0m
+[0m[2023-05-10 19:25:44,635][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 19:25:51,875][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 19:25:51,876][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 19:25:52,215][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 19:25:52,269][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 19:25:58,925][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #uspÓ¡»¨¼¯[0m
+[0m[2023-05-10 19:26:35,932][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 19:29:48,358][command/INFO] PyCqBot: all in (qq=1649762514,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #a1Ó¡»¨¼¯[0m
+[0m[2023-05-10 19:49:22,775][command/INFO] PyCqBot: ÄÜ²»ÄÜÒ»ÆðÓÃÓÆÓÆµÖÖÆbuff (qq=2562312527,ÈººÅ=778471917) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 19:49:37,755][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot One.£¨Ã±ÃÅÓÀ´æ£© (qq=3219669113,ÈººÅ=778471917) [0m
+[0m[2023-05-10 19:49:37,756][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot One.£¨Ã±ÃÅÓÀ´æ£© (qq=3219669113,ÈººÅ=778471917) [0m
+[0m[2023-05-10 19:56:49,204][command/INFO] PyCqBot: Ö¸Áî #¹Òµ¶ ²»´æÔÚ...[0m
+[0m[2023-05-10 19:56:56,612][command/INFO] PyCqBot: Ö¸Áî #°ïÖú ²»´æÔÚ...[0m
+[0m[2023-05-10 19:57:03,205][command/INFO] PyCqBot: Õâ»õÊÇ¸öÐ¡Ñ§Éú (qq=2267705129,ÈººÅ=778471917) Ê¹ÓÃÖ¸Áî: #help[0m
+[0m[2023-05-10 19:57:25,736][command/INFO] PyCqBot: Ö¸Áî #awp¾ÞÁú´«Ëµ ²»´æÔÚ...[0m
+[0m[2023-05-10 19:57:43,343][command/INFO] PyCqBot: lyl (qq=2669327047,ÈººÅ=778471917) Ê¹ÓÃÖ¸Áî: #uspÓ¡»¨¼¯[0m
+[0m[2023-05-10 19:57:46,130][command/INFO] PyCqBot: ´óÅ»ÀÏÊ¬ (qq=2412103096,ÈººÅ=778471917) Ê¹ÓÃÖ¸Áî: #´òÉÍ[0m
+[0m[2023-05-10 19:58:36,780][command/INFO] PyCqBot: Ö¸Áî #Ò¹Ô¸ ²»´æÔÚ...[0m
+[0m[2023-05-10 20:06:26,173][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:06:33,615][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 20:06:33,621][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 20:06:34,059][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 20:06:34,106][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 20:06:55,149][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:07:09,112][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:07:20,251][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:07:37,989][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:07:42,581][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:07:45,661][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:07:48,651][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:07:51,305][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:07:55,094][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:07:57,208][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:06,921][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:07,335][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:07,755][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:08,211][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:08,726][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:09,044][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:09,660][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:10,126][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:10,708][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:11,374][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:11,855][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:12,403][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:12,713][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:13,212][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:13,553][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:13,994][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:14,437][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:14,711][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:16,264][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:16,905][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:17,950][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:20,263][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:20,878][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:21,788][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:22,469][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:23,013][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:23,719][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:24,113][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:24,903][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:08:34,648][command/INFO] PyCqBot: Ö¸Áî #°¡
+#Ç÷ÊÆ ²»´æÔÚ...[0m
+[0m[2023-05-10 20:08:41,987][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:42,904][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:43,495][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:43,962][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:44,713][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:45,163][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:45,660][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:46,328][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:46,894][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:47,485][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:47,961][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:48,553][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:49,305][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:52,474][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:54,125][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:54,749][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:55,478][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:55,952][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:56,551][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:57,057][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:57,553][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:58,083][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:58,475][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:58,999][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:08:59,638][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:09:00,031][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:09:20,649][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:09:28,198][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 20:09:28,199][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 20:09:28,525][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 20:09:28,582][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 20:09:29,721][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:10:08,531][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:10:48,249][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:10:55,265][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 20:10:55,273][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 20:10:55,556][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 20:10:55,637][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 20:10:57,432][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:11:04,465][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:11:07,125][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:11:16,978][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:11:18,921][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:11:21,213][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:11:49,456][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:11:57,343][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 20:11:57,344][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 20:11:57,547][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 20:11:57,714][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 20:11:59,178][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-10 20:26:46,610][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:26:53,605][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 20:26:53,608][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 20:26:53,933][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 20:26:54,006][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 20:27:27,605][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:27:47,803][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:27:49,636][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:27:50,427][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:27:50,992][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:27:51,505][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:27:52,060][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:27:52,629][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:28:15,548][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:28:22,601][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 20:28:22,603][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 20:28:22,815][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 20:28:22,890][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 20:28:24,885][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #°¡[0m
+[0m[2023-05-10 20:30:35,187][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:34:13,489][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:34:20,792][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 20:34:20,793][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 20:34:21,119][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 20:34:21,160][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 20:36:00,829][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 20:36:08,588][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 20:36:08,589][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 20:36:08,651][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 20:36:08,709][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 20:39:56,621][command/INFO] PyCqBot: Ö¸Áî #Ó¡»¨¼¯ ²»´æÔÚ...[0m
+[0m[2023-05-10 20:40:04,727][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #a1Ó¡»¨¼¯[0m
+[0m[2023-05-10 20:40:44,803][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-10 20:41:57,022][command/INFO] PyCqBot: Ö¸Áî  ÔËÐÐÊ±´íÎó... Error: list index out of range[0m
+[0m[2023-05-10 20:41:57,023][command/ERROR] PyCqBot: list index out of range[0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 1236, in run_command
+    commandIn = self._check_command(message)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 1193, in _check_command
+    commandSign, command, commandData = self._set_command_key(message.message)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 1178, in _set_command_key
+    commandSign = list(message)[0]
+                  ~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+[0m[2023-05-10 21:07:22,063][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=521255310) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-10 21:08:51,915][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.3:50787->36.155.248.239:8080: wsarecv: An existing connection was forcibly closed by the remote host.[0m
+[0m[2023-05-10 21:09:25,432][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #ÌìÆø[0m
+[0m[2023-05-10 21:36:10,654][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-10 21:36:17,710][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-10 21:36:17,711][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-10 21:36:18,184][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-10 21:36:18,221][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-10 21:36:20,629][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-10 21:38:01,318][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.3:51283->36.155.210.174:14000: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-11 20:51:57,924][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-11 20:52:06,758][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ HTTP ·þÎñÆ÷Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ£¡[0m
+[0m[2023-05-11 20:52:06,761][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ÕýÏò Websocket Ê¹ÓÃÁË¹ýÊ±µÄÅäÖÃ¸ñÊ½£¬Çë¸üÐÂÅäÖÃÎÄ¼þ[0m
+[0m[2023-05-11 20:52:07,126][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-11 20:52:07,325][MainThread/INFO] PyCqBot: ³É¹¦Á¬½Ó websocket ·þÎñ! bot qq:1209309260[0m
+[0m[2023-05-11 20:52:09,558][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-11 20:53:05,486][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-11 20:53:18,367][command/INFO] PyCqBot: ´óµñÀÏÊ¦ (qq=2562312527,ÈººÅ=725665163) Ê¹ÓÃÖ¸Áî: #»Æ½ðÍø[0m
+[0m[2023-05-11 21:16:33,444][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,ÈººÅ=257506703) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-11 21:23:18,124][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot ¼ÎÈ»¶þºÅ»ú (qq=951959483,ÈººÅ=706930678) [0m
+[0m[2023-05-11 21:23:33,377][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot ¼ÎÈ»¶þºÅ»ú (qq=951959483,ÈººÅ=706930678) [0m
+[0m[2023-05-11 21:24:39,118][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot ¼ÎÈ»¶þºÅ»ú (qq=951959483,ÈººÅ=706930678) [0m
+[0m[2023-05-11 21:26:06,979][MainThread/INFO] PyCqBot: ½ÓÊÕµ½ at bot ¼ÎÈ»¶þºÅ»ú (qq=951959483,ÈººÅ=706930678) [0m
+[0m[2023-05-11 21:29:11,801][command/INFO] PyCqBot: Óôyf (qq=3406372949,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-11 21:29:36,888][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-11 21:31:51,137][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #Ç÷ÊÆ[0m
+[0m[2023-05-11 21:32:37,723][command/INFO] PyCqBot: ²¼´¨¿á×Ó (qq=2562312527,ÈººÅ=1170151918) Ê¹ÓÃÖ¸Áî: #ÏëÄî[0m
+[0m[2023-05-11 21:34:23,132][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> unexpected disconnect: read tcp 192.168.1.8:51434->36.155.201.197:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-11 21:34:23,133][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 111.31.205.197:443: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-11 21:34:23,134][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 111.31.205.197:443: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-11 21:34:23,135][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ BotÒÑÀëÏß: connection dropped by server.[0m
+[0m[2023-05-11 21:34:26,135][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ½«ÔÚ 3 Ãëºó³¢ÊÔÖØÁ¬. ÖØÁ¬´ÎÊý£º2/0[0m
+[0m[2023-05-11 21:34:29,149][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ³¢ÊÔÖØÁ¬...[0m
+[0m[2023-05-11 21:34:29,150][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢Éú´íÎó Protocol -> connect server error: dial tcp error: dial tcp 120.232.18.213:8080: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-11 21:34:29,150][cqhttp_shell/WARNING] PyCqBot: go-cqhttp ¾¯¸æ ¿ìËÙÖØÁ¬Ê§°Ü: dial tcp error: dial tcp 120.232.18.213:8080: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-11 21:34:29,150][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ·¢ÉúÖÂÃü´íÎó ¿ìËÙÖØÁ¬Ê§°Ü, É¨ÂëµÇÂ¼ÎÞ·¨»Ö¸´»á»°.[0m
+[0m[2023-05-11 21:34:29,158][MainThread/WARNING] PyCqBot: no close frame received or sent[0m
+[0m[2023-05-11 21:34:29,162][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (1/3)[0m
+[0m[2023-05-11 21:34:39,166][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-11 21:34:41,215][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-11 21:34:41,215][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (2/3)[0m
+[0m[2023-05-11 21:34:51,223][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-11 21:34:53,259][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-11 21:34:53,259][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (3/3)[0m
+[0m[2023-05-11 21:35:03,265][MainThread/INFO] PyCqBot: ÕýÔÚÁ¬½Ó go-cqhttp websocket ·þÎñ[0m
+[0m[2023-05-11 21:35:05,302][MainThread/WARNING] PyCqBot: [WinError 1225] Ô¶³Ì¼ÆËã»ú¾Ü¾øÍøÂçÁ¬½Ó¡£[0m
+[0m[2023-05-11 21:35:05,302][MainThread/WARNING] PyCqBot: 10Ãëºó ÖØÐÂÁ¬½Ó websocket ·þÎñ (4/3)[0m

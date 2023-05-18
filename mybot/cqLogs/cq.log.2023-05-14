@@ -1,0 +1,280 @@
+[0m[2023-05-12 22:17:39,942][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-12 22:17:48,435][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-12 22:17:48,440][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-12 22:17:48,894][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-12 22:17:49,002][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-12 22:18:00,599][command/INFO] PyCqBot: ¥ÛµÒ¿œ ¶ (qq=2562312527,»∫∫≈=725665163)  π”√÷∏¡Ó: #«˜ ∆[0m
+[0m[2023-05-12 22:18:22,516][command/INFO] PyCqBot: ≤º¥®ø·◊” (qq=2562312527,»∫∫≈=1170151918)  π”√÷∏¡Ó: #œÎƒÓ[0m
+[0m[2023-05-12 22:47:00,990][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: #«˜ ∆[0m
+[0m[2023-05-12 22:52:23,047][MainThread/ERROR] PyCqBot: 'target_id'[0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 875, in main_logic
+    self._on_message(await websocket.recv())
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 983, in _on_message
+    message = event.get_message(self.cqapi)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\data\event.py", line 86, in get_message
+    return Private_Message(cqapi, self, self.data) if self.is_private() else Group_Message(cqapi, self, self.data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\data\message.py", line 89, in __init__
+    self.target_id: int = message_data["target_id"]
+                          ~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'target_id'
+[0m[2023-05-12 22:52:36,094][MainThread/ERROR] PyCqBot: 'target_id'[0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 875, in main_logic
+    self._on_message(await websocket.recv())
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 983, in _on_message
+    message = event.get_message(self.cqapi)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\data\event.py", line 86, in get_message
+    return Private_Message(cqapi, self, self.data) if self.is_private() else Group_Message(cqapi, self, self.data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\data\message.py", line 89, in __init__
+    self.target_id: int = message_data["target_id"]
+                          ~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'target_id'
+[0m[2023-05-12 22:58:14,702][command/INFO] PyCqBot: ÷∏¡Ó #gpt ƒ„∫√ ≤ª¥Ê‘⁄...[0m
+[0m[2023-05-12 22:58:45,258][command/INFO] PyCqBot: ÷∏¡Ó #ƒ„∫√ ≤ª¥Ê‘⁄...[0m
+[0m[2023-05-12 23:14:37,439][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> unexpected disconnect: read tcp 192.168.1.3:59594->36.155.248.239:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-12 23:14:37,440][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 111.31.200.170:443: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-12 23:14:37,441][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 111.31.200.170:443: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-12 23:14:37,442][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Bot“—¿Îœﬂ: connection dropped by server.[0m
+[0m[2023-05-12 23:14:40,451][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Ω´‘⁄ 3 √Î∫Û≥¢ ‘÷ÿ¡¨. ÷ÿ¡¨¥Œ ˝£∫2/0[0m
+[0m[2023-05-12 23:14:43,465][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ≥¢ ‘÷ÿ¡¨...[0m
+[0m[2023-05-12 23:14:43,466][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 120.232.31.250:8080: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-12 23:14:43,468][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê øÏÀŸ÷ÿ¡¨ ß∞‹: dial tcp error: dial tcp 120.232.31.250:8080: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-12 23:14:43,469][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙÷¬√¸¥ÌŒÛ øÏÀŸ÷ÿ¡¨ ß∞‹, …®¬Îµ«¬ºŒﬁ∑®ª÷∏¥ª·ª∞.[0m
+[0m[2023-05-12 23:14:43,484][MainThread/WARNING] PyCqBot: no close frame received or sent[0m
+[0m[2023-05-12 23:14:43,485][MainThread/WARNING] PyCqBot: 10√Î∫Û ÷ÿ–¬¡¨Ω” websocket ∑˛ŒÒ (1/3)[0m
+[0m[2023-05-12 23:14:53,486][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-12 23:14:55,515][MainThread/WARNING] PyCqBot: [WinError 1225] ‘∂≥Ãº∆À„ª˙æ‹æ¯Õ¯¬Á¡¨Ω”°£[0m
+[0m[2023-05-12 23:14:55,519][MainThread/WARNING] PyCqBot: 10√Î∫Û ÷ÿ–¬¡¨Ω” websocket ∑˛ŒÒ (2/3)[0m
+[0m[2023-05-12 23:15:05,523][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-12 23:15:07,553][MainThread/WARNING] PyCqBot: [WinError 1225] ‘∂≥Ãº∆À„ª˙æ‹æ¯Õ¯¬Á¡¨Ω”°£[0m
+[0m[2023-05-12 23:15:07,554][MainThread/WARNING] PyCqBot: 10√Î∫Û ÷ÿ–¬¡¨Ω” websocket ∑˛ŒÒ (3/3)[0m
+[0m[2023-05-12 23:15:17,557][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-12 23:15:19,581][MainThread/WARNING] PyCqBot: [WinError 1225] ‘∂≥Ãº∆À„ª˙æ‹æ¯Õ¯¬Á¡¨Ω”°£[0m
+[0m[2023-05-12 23:15:19,582][MainThread/WARNING] PyCqBot: 10√Î∫Û ÷ÿ–¬¡¨Ω” websocket ∑˛ŒÒ (4/3)[0m
+[0m[2023-05-13 19:20:26,931][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-13 19:20:35,755][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-13 19:20:35,757][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-13 19:20:35,983][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-13 19:20:36,045][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-13 19:21:12,720][command/INFO] PyCqBot: ≤º¥®ø·◊” (qq=2562312527,»∫∫≈=1170151918)  π”√÷∏¡Ó: #œÎƒÓ[0m
+[0m[2023-05-13 19:26:30,628][command/INFO] PyCqBot: ¥ÛµÒ¿œ ¶ (qq=2562312527,»∫∫≈=725665163)  π”√÷∏¡Ó: #«˜ ∆[0m
+[0m[2023-05-13 19:31:01,086][command/INFO] PyCqBot: π˘ÃÏ“ª (qq=3154581689,»∫∫≈=1170151918)  π”√÷∏¡Ó: #œÎƒÓ[0m
+[0m[2023-05-13 22:18:54,809][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=773677626)  π”√÷∏¡Ó: #ª∆ΩÕ¯[0m
+[0m[2023-05-13 22:19:05,585][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=773677626)  π”√÷∏¡Ó: #«˜ ∆[0m
+[0m[2023-05-13 22:20:43,798][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> unexpected disconnect: read tcp 192.168.1.8:50002->111.31.205.244:80: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.[0m
+[0m[2023-05-13 22:20:43,800][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 111.31.200.210:443: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-13 22:20:43,802][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 111.31.200.210:443: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-13 22:20:43,803][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Bot“—¿Îœﬂ: connection dropped by server.[0m
+[0m[2023-05-13 22:20:46,811][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Ω´‘⁄ 3 √Î∫Û≥¢ ‘÷ÿ¡¨. ÷ÿ¡¨¥Œ ˝£∫2/0[0m
+[0m[2023-05-13 22:20:49,819][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ≥¢ ‘÷ÿ¡¨...[0m
+[0m[2023-05-13 22:20:49,821][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 120.232.130.20:8080: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-13 22:20:49,823][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê øÏÀŸ÷ÿ¡¨ ß∞‹: dial tcp error: dial tcp 120.232.130.20:8080: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-13 22:20:49,824][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙÷¬√¸¥ÌŒÛ øÏÀŸ÷ÿ¡¨ ß∞‹, …®¬Îµ«¬ºŒﬁ∑®ª÷∏¥ª·ª∞.[0m
+[0m[2023-05-13 22:20:49,839][MainThread/WARNING] PyCqBot: no close frame received or sent[0m
+[0m[2023-05-13 22:20:49,842][MainThread/WARNING] PyCqBot: 10√Î∫Û ÷ÿ–¬¡¨Ω” websocket ∑˛ŒÒ (1/3)[0m
+[0m[2023-05-13 22:20:59,843][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-13 22:21:02,119][MainThread/WARNING] PyCqBot: [WinError 1225] ‘∂≥Ãº∆À„ª˙æ‹æ¯Õ¯¬Á¡¨Ω”°£[0m
+[0m[2023-05-13 22:21:02,124][MainThread/WARNING] PyCqBot: 10√Î∫Û ÷ÿ–¬¡¨Ω” websocket ∑˛ŒÒ (2/3)[0m
+[0m[2023-05-13 22:21:12,127][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-13 22:21:14,380][MainThread/WARNING] PyCqBot: [WinError 1225] ‘∂≥Ãº∆À„ª˙æ‹æ¯Õ¯¬Á¡¨Ω”°£[0m
+[0m[2023-05-13 22:21:14,381][MainThread/WARNING] PyCqBot: 10√Î∫Û ÷ÿ–¬¡¨Ω” websocket ∑˛ŒÒ (3/3)[0m
+[0m[2023-05-13 22:21:24,383][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-13 22:21:27,013][MainThread/WARNING] PyCqBot: [WinError 1225] ‘∂≥Ãº∆À„ª˙æ‹æ¯Õ¯¬Á¡¨Ω”°£[0m
+[0m[2023-05-13 22:21:27,014][MainThread/WARNING] PyCqBot: 10√Î∫Û ÷ÿ–¬¡¨Ω” websocket ∑˛ŒÒ (4/3)[0m
+[0m[2023-05-14 08:31:09,485][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network.[0m
+[0m[2023-05-14 08:31:09,486][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ª÷∏¥ª·ª∞ ß∞‹: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network. , ≥¢ ‘ π”√’˝≥£¡˜≥Ãµ«¬º.[0m
+[0m[2023-05-14 08:31:10,492][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network.[0m
+[0m[2023-05-14 08:31:10,493][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙÷¬√¸¥ÌŒÛ µ«¬º ±∑¢…˙÷¬√¸¥ÌŒÛ: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network.[0m
+[0m[2023-05-14 08:31:20,457][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’À∫≈√‹¬ÎŒ¥≈‰÷√, Ω´ π”√∂˛Œ¨¬Îµ«¬º.[0m
+[0m[2023-05-14 08:31:20,479][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network.[0m
+[0m[2023-05-14 08:31:20,479][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙÷¬√¸¥ÌŒÛ µ«¬º ±∑¢…˙÷¬√¸¥ÌŒÛ: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network.[0m
+[0m[2023-05-14 08:32:29,862][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’À∫≈√‹¬ÎŒ¥≈‰÷√, Ω´ π”√∂˛Œ¨¬Îµ«¬º.[0m
+[0m[2023-05-14 08:33:03,263][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 08:33:03,887][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> parse incoming packet error: return code unsuccessful: -10004[0m
+[0m[2023-05-14 08:33:03,887][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> parse incoming packet error: return code unsuccessful: -10004[0m
+[0m[2023-05-14 08:33:03,951][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> parse incoming packet error: return code unsuccessful: -10004[0m
+[0m[2023-05-14 08:33:36,803][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 08:33:36,805][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 08:33:37,226][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 08:33:37,276][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:2562312527[0m
+[0m[2023-05-14 08:34:11,033][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê æØ∏Ê: ≈‰÷√Œƒº˛ƒ⁄µƒQQ∫≈ (1209309260) ”Îª∫¥Êƒ⁄µƒQQ∫≈ (2562312527) ≤ªœ‡Õ¨[0m
+[0m[2023-05-14 08:34:11,035][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê 1.  π”√ª·ª∞ª∫¥ÊºÃ–¯.[0m
+[0m[2023-05-14 08:34:11,081][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê 2. …æ≥˝ª·ª∞ª∫¥Ê≤¢÷ÿ∆Ù.[0m
+[0m[2023-05-14 08:34:11,081][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê «Î—°‘Ò:[0m
+[0m[2023-05-14 08:34:45,619][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê æØ∏Ê: ≈‰÷√Œƒº˛ƒ⁄µƒQQ∫≈ (1209309260) ”Îª∫¥Êƒ⁄µƒQQ∫≈ (2562312527) ≤ªœ‡Õ¨[0m
+[0m[2023-05-14 08:34:45,620][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê 1.  π”√ª·ª∞ª∫¥ÊºÃ–¯.[0m
+[0m[2023-05-14 08:34:45,661][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê 2. …æ≥˝ª·ª∞ª∫¥Ê≤¢÷ÿ∆Ù.[0m
+[0m[2023-05-14 08:34:45,661][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê «Î—°‘Ò:[0m
+[0m[2023-05-14 08:35:00,760][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’À∫≈√‹¬ÎŒ¥≈‰÷√, Ω´ π”√∂˛Œ¨¬Îµ«¬º.[0m
+[0m[2023-05-14 08:35:22,339][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 08:35:35,258][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 08:35:35,259][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 08:35:35,574][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 08:35:35,639][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:2562312527[0m
+[0m[2023-05-14 08:36:00,551][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê æØ∏Ê: ≈‰÷√Œƒº˛ƒ⁄µƒQQ∫≈ (1209309260) ”Îª∫¥Êƒ⁄µƒQQ∫≈ (2562312527) ≤ªœ‡Õ¨[0m
+[0m[2023-05-14 08:36:00,552][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê 1.  π”√ª·ª∞ª∫¥ÊºÃ–¯.[0m
+[0m[2023-05-14 08:36:00,584][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê 2. …æ≥˝ª·ª∞ª∫¥Ê≤¢÷ÿ∆Ù.[0m
+[0m[2023-05-14 08:36:00,585][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê «Î—°‘Ò:[0m
+[0m[2023-05-14 08:36:08,325][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’À∫≈√‹¬ÎŒ¥≈‰÷√, Ω´ π”√∂˛Œ¨¬Îµ«¬º.[0m
+[0m[2023-05-14 08:36:32,847][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 08:36:40,064][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 08:36:40,065][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 08:36:40,151][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 08:36:40,205][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-14 08:36:45,384][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: #help[0m
+[0m[2023-05-14 08:37:04,407][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: #«˜ ∆[0m
+[0m[2023-05-14 08:38:15,973][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 08:38:24,460][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 08:38:24,461][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 08:38:24,862][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 08:38:24,900][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-14 08:38:29,120][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-14 08:38:33,782][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 08:38:49,968][command/INFO] PyCqBot: ≤º¥®ø·◊” (qq=2562312527,»∫∫≈=1170151918)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 08:38:53,957][command/INFO] PyCqBot: ≤º¥®ø·◊” (qq=2562312527,»∫∫≈=1170151918)  π”√÷∏¡Ó: œÎƒÓ[0m
+[0m[2023-05-14 08:39:46,872][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: help[0m
+[0m[2023-05-14 08:39:52,294][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: status[0m
+[0m[2023-05-14 08:39:52,295][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703) »®œﬁ≤ª◊„... ÷∏¡Ó status[0m
+[0m[2023-05-14 08:40:03,590][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: ’Ω∫€¿€¿€[0m
+[0m[2023-05-14 08:40:16,417][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó:  Ø¡€[0m
+[0m[2023-05-14 08:40:26,821][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: ¥Ú…Õ[0m
+[0m[2023-05-14 09:05:38,928][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 09:05:46,950][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 09:05:46,951][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 09:05:47,503][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 09:05:47,541][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-14 09:05:48,876][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 09:05:48,877][command/INFO] PyCqBot: ÷∏¡Ó 6 ‘À–– ±¥ÌŒÛ... Error: not all arguments converted during string formatting[0m
+[0m[2023-05-14 09:05:48,895][command/ERROR] PyCqBot: not all arguments converted during string formatting[0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 1241, in run_command
+    self.__commandList[command]["function"](commandData, message)
+  File "D:\mybot\csgo_bot.py", line 117, in a6
+    message.reply("6 ≤√¥6%s"%('a','https://mmbiz.qpic.cn/mmbiz_jpg/ic70qV1QbaSP2vtzEQszMNiaQhd4yyyRYBPib9357Ca0ZmRkOgVOgx6KUO5BOZ2IibcFyqJkwibZtodkQFHC3Nr5B1A/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1') )
+                  ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[0m[2023-05-14 09:05:59,017][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 09:05:59,018][command/INFO] PyCqBot: ÷∏¡Ó 6 ‘À–– ±¥ÌŒÛ... Error: not all arguments converted during string formatting[0m
+[0m[2023-05-14 09:05:59,044][command/ERROR] PyCqBot: not all arguments converted during string formatting[0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 1241, in run_command
+    self.__commandList[command]["function"](commandData, message)
+  File "D:\mybot\csgo_bot.py", line 117, in a6
+    message.reply("6 ≤√¥6%s"%('a','https://mmbiz.qpic.cn/mmbiz_jpg/ic70qV1QbaSP2vtzEQszMNiaQhd4yyyRYBPib9357Ca0ZmRkOgVOgx6KUO5BOZ2IibcFyqJkwibZtodkQFHC3Nr5B1A/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1') )
+                  ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[0m[2023-05-14 09:09:32,492][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 09:09:40,737][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 09:09:40,739][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 09:09:41,030][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 09:09:41,103][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-14 09:09:42,307][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 09:09:42,307][command/INFO] PyCqBot: ÷∏¡Ó 6 ‘À–– ±¥ÌŒÛ... Error: not all arguments converted during string formatting[0m
+[0m[2023-05-14 09:09:42,325][command/ERROR] PyCqBot: not all arguments converted during string formatting[0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 1241, in run_command
+    self.__commandList[command]["function"](commandData, message)
+  File "D:\mybot\csgo_bot.py", line 117, in a6
+    message.reply("6 ≤√¥6%s"%('a','https://www.emojidaquan.com/Pics/meme/202301/8bbe0c4564f2.jpg') )
+                  ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[0m[2023-05-14 09:09:47,032][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 09:09:47,033][command/INFO] PyCqBot: ÷∏¡Ó 6 ‘À–– ±¥ÌŒÛ... Error: not all arguments converted during string formatting[0m
+[0m[2023-05-14 09:09:47,061][command/ERROR] PyCqBot: not all arguments converted during string formatting[0m
+Traceback (most recent call last):
+  File "C:\Users\JackyZ\AppData\Local\Programs\Python\Python311\Lib\site-packages\pycqBot\cqApi.py", line 1241, in run_command
+    self.__commandList[command]["function"](commandData, message)
+  File "D:\mybot\csgo_bot.py", line 117, in a6
+    message.reply("6 ≤√¥6%s"%('a','https://www.emojidaquan.com/Pics/meme/202301/8bbe0c4564f2.jpg') )
+                  ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+[0m[2023-05-14 09:10:32,531][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 09:10:40,791][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 09:10:40,793][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 09:10:40,968][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 09:10:41,042][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-14 09:10:42,258][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 09:10:44,257][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 09:10:46,233][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 09:12:06,284][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 09:12:14,415][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 09:12:14,416][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 09:12:14,810][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 09:12:14,849][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-14 09:12:15,944][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 09:12:19,368][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 09:13:28,957][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 09:13:37,064][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 09:13:37,066][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 09:13:37,396][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 09:13:37,453][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-14 09:13:40,627][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 09:13:43,134][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-14 10:14:06,913][command/INFO] PyCqBot: ¥ÛµÒ¿œ ¶ (qq=2562312527,»∫∫≈=725665163)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-14 10:24:19,598][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-14 10:24:30,877][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 10:45:41,574][command/INFO] PyCqBot: æÕ «æÕ «∫‹ (qq=548335035,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 11:21:06,198][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 12:11:46,117][command/INFO] PyCqBot: ¥Û Û¿œ ¶ (qq=2665567313,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 12:24:27,614][command/INFO] PyCqBot: Àæ¬Ìtyloo (qq=2359363041,»∫∫≈=725665163)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 12:24:47,649][command/INFO] PyCqBot: Q»∫π‹º“ (qq=1076263731,»∫∫≈=725665163)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 12:26:11,627][command/INFO] PyCqBot: ¥Û Û¿œ ¶ (qq=2665567313,»∫∫≈=725665163)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 12:27:25,852][command/INFO] PyCqBot: Àæ¬Ìtyloo (qq=2359363041,»∫∫≈=725665163)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 16:32:40,293][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> parse incoming packet error: invalid packet type[0m
+[0m[2023-05-14 16:32:41,105][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> unexpected disconnect: read tcp 192.168.1.5:51623->36.155.213.223:8080: wsarecv: An existing connection was forcibly closed by the remote host.[0m
+[0m[2023-05-14 17:09:00,419][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> unexpected disconnect: read tcp 192.168.1.5:58049->111.31.205.231:443: wsarecv: An established connection was aborted by the software in your host machine.[0m
+[0m[2023-05-14 18:12:29,715][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-14 18:12:53,239][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-14 18:12:53,240][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-14 18:12:53,291][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-14 18:12:53,348][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-14 18:21:49,591][command/INFO] PyCqBot: –«≥Ω (qq=3247324832,»∫∫≈=778471917)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 18:45:52,246][command/INFO] PyCqBot: Pathfinder (qq=2994264449,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 19:06:43,324][command/INFO] PyCqBot: ¥ÛµÒ¿œ ¶ (qq=2562312527,»∫∫≈=725665163)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-14 19:08:48,709][command/INFO] PyCqBot: ≤º¥®ø·◊” (qq=2562312527,»∫∫≈=1170151918)  π”√÷∏¡Ó: œÎƒÓ[0m
+[0m[2023-05-14 19:09:09,095][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 19:09:50,560][command/INFO] PyCqBot: ¥ÛµÒ¿œ ¶ (qq=2562312527,»∫∫≈=725665163)  π”√÷∏¡Ó: a1”°ª®ºØ[0m
+[0m[2023-05-14 19:10:03,133][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 19:10:23,429][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-14 19:34:00,396][command/INFO] PyCqBot: tim (qq=1169917106,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 19:34:22,695][command/INFO] PyCqBot: One.£®√±√≈”¿¥Ê£© (qq=3219669113,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 19:34:46,456][command/INFO] PyCqBot: One.£®√±√≈”¿¥Ê£© (qq=3219669113,»∫∫≈=778471917)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 19:35:05,823][command/INFO] PyCqBot: One.£®√±√≈”¿¥Ê£© (qq=3219669113,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 19:35:57,232][command/INFO] PyCqBot: –«≥Ω(Õ¯’æ◊‘—–◊‘”√) (qq=3247324832,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 19:37:06,579][command/INFO] PyCqBot: ƒ‹≤ªƒ‹“ª∆”√”∆”∆µ÷÷∆buff (qq=2562312527,»∫∫≈=778471917)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 19:46:24,361][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:21:08,978][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:21:18,194][command/INFO] PyCqBot: ¥ÛµÒ¿œ ¶ (qq=2562312527,»∫∫≈=725665163)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:25:26,790][command/INFO] PyCqBot: archacrofoest. (qq=3406372949,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:28:52,795][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 20:28:53,940][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 20:29:43,331][command/INFO] PyCqBot: archacrofoest. (qq=3406372949,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:30:59,681][command/INFO] PyCqBot: «‡≥ı (qq=2640457349,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:31:32,105][command/INFO] PyCqBot: ºæ≤Æ‡≈£®∆∆≤˙∞Ê£© (qq=276567435,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:31:48,210][command/INFO] PyCqBot: «‡≥ı (qq=2640457349,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:31:53,434][MainThread/INFO] PyCqBot: Ω” ’µΩ at bot ºæ≤Æ‡≈£®∆∆≤˙∞Ê£© (qq=276567435,»∫∫≈=778471917) [0m
+[0m[2023-05-14 20:32:04,798][command/INFO] PyCqBot: «‡≥ı (qq=2640457349,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:32:31,147][command/INFO] PyCqBot: «‡≥ı (qq=2640457349,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:35:25,922][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-14 20:35:28,328][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: œÎƒÓ[0m
+[0m[2023-05-14 20:56:00,707][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 20:56:06,438][command/INFO] PyCqBot: …Í©Œƒ (qq=3136879636,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:16:36,683][command/INFO] PyCqBot: √€∑‰¿œ ¶ (qq=3259258590,»∫∫≈=725665163)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:41:44,441][command/INFO] PyCqBot: ' (qq=839319397,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:41:52,505][command/INFO] PyCqBot: ' (qq=839319397,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:41:52,821][command/INFO] PyCqBot: £®¥æ∏Á”¿∑€£© (qq=2693141349,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:41:54,771][command/INFO] PyCqBot: 2411 (qq=2362440656,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:42:03,157][MainThread/INFO] PyCqBot: Ω” ’µΩ at bot 2411 (qq=2362440656,»∫∫≈=778471917) [0m
+[0m[2023-05-14 21:42:14,727][command/INFO] PyCqBot: Valve£®V…Á÷–π˙«¯◊‹¥˙¿Ì£© (qq=6727657,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:42:33,829][command/INFO] PyCqBot: Valve£®V…Á÷–π˙«¯◊‹¥˙¿Ì£© (qq=6727657,»∫∫≈=778471917)  π”√÷∏¡Ó: 666[0m
+[0m[2023-05-14 21:42:56,999][MainThread/INFO] PyCqBot: Ω” ’µΩ at bot Valve£®V…Á÷–π˙«¯◊‹¥˙¿Ì£© (qq=6727657,»∫∫≈=778471917) [0m
+[0m[2023-05-14 21:43:11,761][command/INFO] PyCqBot: ƒ‹≤ªƒ‹“ª∆”√”∆”∆µ÷÷∆buff (qq=2562312527,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:43:43,362][command/INFO] PyCqBot: ¥ÛµÒ¿œ ¶ (qq=2562312527,»∫∫≈=725665163)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:44:12,587][command/INFO] PyCqBot: x:ßŸß”ß÷ßŸß’ß— (qq=3043818008,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:48:41,483][command/INFO] PyCqBot: Hi Hi Hi Hi Hi Hi Hi Hi  (qq=3154581689,»∫∫≈=521255310)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-14 21:54:06,169][command/INFO] PyCqBot: °£ (qq=785500446,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
