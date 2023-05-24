@@ -1,0 +1,1073 @@
+[0m[2023-05-20 18:27:24,240][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> parse incoming packet error: invalid packet type[0m
+[0m[2023-05-20 18:27:24,868][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> unexpected disconnect: write tcp 192.168.1.9:61013->36.155.201.42:8080: wsasend: An existing connection was forcibly closed by the remote host.[0m
+[0m[2023-05-20 18:27:24,900][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 111.31.205.233:443: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-20 18:27:24,930][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> connect server error: dial tcp error: dial tcp 111.31.205.233:443: connectex: A socket operation was attempted to an unreachable host.[0m
+[0m[2023-05-20 18:27:25,087][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Bot“—¿Îœﬂ: connection dropped by server.[0m
+[0m[2023-05-20 18:27:28,032][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Ω´‘⁄ 3 √Î∫Û≥¢ ‘÷ÿ¡¨. ÷ÿ¡¨¥Œ ˝£∫2/0[0m
+[0m[2023-05-20 18:27:31,038][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ≥¢ ‘÷ÿ¡¨...[0m
+[0m[2023-05-20 18:27:51,671][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-20 18:27:59,196][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-20 18:27:59,198][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-20 18:27:59,478][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-20 18:27:59,538][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-20 18:29:47,689][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: œÎƒÓ[0m
+[0m[2023-05-20 18:29:50,395][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-20 18:30:16,996][command/INFO] PyCqBot: ≤º¥®ø·◊” (qq=2562312527,»∫∫≈=1170151918)  π”√÷∏¡Ó: œÎƒÓ[0m
+[0m[2023-05-20 18:54:48,319][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=257506703)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-20 18:56:29,013][command/INFO] PyCqBot: °§ (qq=898818521,»∫∫≈=390066274)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 19:08:07,245][command/INFO] PyCqBot: »´»∫µπ ˝µ⁄“ª∏ª (qq=1228449248,»∫∫≈=725665163)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 19:47:39,446][command/INFO] PyCqBot: Pathfinder (qq=2994264449,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:05:41,300][command/INFO] PyCqBot: Pathfinder (qq=2994264449,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:06:12,673][command/INFO] PyCqBot: Pathfinder (qq=2994264449,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:06:26,890][command/INFO] PyCqBot: One.£®√±√≈”¿¥Ê£© (qq=3219669113,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:06:29,752][command/INFO] PyCqBot: ∞◊ø™ÀÆ‘ı√¥√ªŒ∂∞° (qq=1340703828,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:06:33,544][command/INFO] PyCqBot: «‡≥ı (qq=2640457349,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:09:23,683][command/INFO] PyCqBot: Ω‰ﬂ£∏Á£®÷ªø¥≤ªﬂ££© (qq=2477550140,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:09:30,339][command/INFO] PyCqBot: Ω‰ﬂ£∏Á£®÷ªø¥≤ªﬂ££© (qq=2477550140,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:18:27,478][command/INFO] PyCqBot: Ω‰ﬂ£∏Á£®÷ªø¥≤ªﬂ££© (qq=2477550140,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:18:39,813][command/INFO] PyCqBot: «‡≥ı (qq=2640457349,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:25:39,647][command/INFO] PyCqBot: ¥Û Û¿œ ¶ (qq=2665567313,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:31:17,379][command/INFO] PyCqBot: Ω‰ﬂ£∏Á£®÷ªø¥≤ªﬂ££© (qq=2477550140,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:31:32,388][command/INFO] PyCqBot: Ω”≈Ãœ¿ (qq=945288392,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 20:32:10,303][cqhttp_shell/ERROR] PyCqBot: go-cqhttp ∑¢…˙¥ÌŒÛ Protocol -> unexpected disconnect: read tcp 192.168.1.9:55412->36.155.248.239:8080: wsarecv: An existing connection was forcibly closed by the remote host.[0m
+[0m[2023-05-20 21:05:55,984][command/INFO] PyCqBot: One.£®√±√≈”¿¥Ê£© (qq=3219669113,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-20 21:06:06,296][command/INFO] PyCqBot: ºæ≤Æ‡≈£®∆∆≤˙∞Ê£© (qq=276567435,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 09:08:54,322][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-21 09:09:01,330][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-21 09:09:01,334][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-21 09:09:01,805][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-21 09:09:01,915][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-21 09:10:32,160][MainThread/DEBUG] PyCqBot: Using proactor: IocpProactor[0m
+[0m[2023-05-21 09:10:33,036][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-21 09:10:39,766][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-21 09:10:39,767][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-21 09:10:40,177][MainThread/DEBUG] PyCqBot: Using proactor: IocpProactor[0m
+[0m[2023-05-21 09:10:40,181][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-21 09:10:40,288][MainThread/DEBUG] PyCqBot: = connection is CONNECTING[0m
+[0m[2023-05-21 09:10:40,288][MainThread/DEBUG] PyCqBot: > GET / HTTP/1.1[0m
+[0m[2023-05-21 09:10:40,293][MainThread/DEBUG] PyCqBot: > Host: 127.0.0.1:8080[0m
+[0m[2023-05-21 09:10:40,293][MainThread/DEBUG] PyCqBot: > Upgrade: websocket[0m
+[0m[2023-05-21 09:10:40,293][MainThread/DEBUG] PyCqBot: > Connection: Upgrade[0m
+[0m[2023-05-21 09:10:40,294][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Key: kYP1ux2XOLt9PFrnZYg0DA==[0m
+[0m[2023-05-21 09:10:40,294][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Version: 13[0m
+[0m[2023-05-21 09:10:40,294][MainThread/DEBUG] PyCqBot: > Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits[0m
+[0m[2023-05-21 09:10:40,294][MainThread/DEBUG] PyCqBot: > User-Agent: Python/3.11 websockets/11.0.2[0m
+[0m[2023-05-21 09:10:40,296][MainThread/DEBUG] PyCqBot: < HTTP/1.1 101 Switching Protocols[0m
+[0m[2023-05-21 09:10:40,296][MainThread/DEBUG] PyCqBot: < Upgrade: websocket[0m
+[0m[2023-05-21 09:10:40,297][MainThread/DEBUG] PyCqBot: < Connection: Upgrade[0m
+[0m[2023-05-21 09:10:40,297][MainThread/DEBUG] PyCqBot: < Sec-WebSocket-Accept: PMIAvmm9PmDGuYxUGo+VxZk8bJg=[0m
+[0m[2023-05-21 09:10:40,298][MainThread/DEBUG] PyCqBot: = connection is OPEN[0m
+[0m[2023-05-21 09:10:40,299][MainThread/DEBUG] PyCqBot: < TEXT '{"_post_method":2,"meta_event_type":"lifecycle"...ect","time":1684631439}' [133 bytes][0m
+[0m[2023-05-21 09:10:40,299][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_lifecycle_connect  ¬º˛: {'_post_method': 2, 'meta_event_type': 'lifecycle', 'post_type': 'meta_event', 'self_id': 1209309260, 'sub_type': 'connect', 'time': 1684631439}[0m
+[0m[2023-05-21 09:10:40,300][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-21 09:11:00,305][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:11:00,306][MainThread/DEBUG] PyCqBot: > PING '\x1b7FN' [text, 4 bytes][0m
+[0m[2023-05-21 09:11:00,307][MainThread/DEBUG] PyCqBot: < PONG '\x1b7FN' [text, 4 bytes][0m
+[0m[2023-05-21 09:11:00,307][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:11:19,780][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [387 bytes][0m
+[0m[2023-05-21 09:11:19,781][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631479, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 48, 'packet_sent': 40, 'packet_lost': 0, 'message_received': 0, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 0}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:11:19,783][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631479, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 48, 'packet_sent': 40, 'packet_lost': 0, 'message_received': 0, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 0}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:11:20,308][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:11:20,309][MainThread/DEBUG] PyCqBot: > PING eb c5 c8 3c [binary, 4 bytes][0m
+[0m[2023-05-21 09:11:20,314][MainThread/DEBUG] PyCqBot: < PONG eb c5 c8 3c [binary, 4 bytes][0m
+[0m[2023-05-21 09:11:20,315][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:11:40,328][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:11:40,329][MainThread/DEBUG] PyCqBot: > PING 86 73 c6 12 [binary, 4 bytes][0m
+[0m[2023-05-21 09:11:40,330][MainThread/DEBUG] PyCqBot: < PONG 86 73 c6 12 [binary, 4 bytes][0m
+[0m[2023-05-21 09:11:40,331][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:11:59,770][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [387 bytes][0m
+[0m[2023-05-21 09:11:59,772][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631519, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 49, 'packet_sent': 41, 'packet_lost': 0, 'message_received': 0, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 0}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:11:59,776][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631519, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 49, 'packet_sent': 41, 'packet_lost': 0, 'message_received': 0, 'message_sent': 0, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 0}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:12:00,355][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:12:00,355][MainThread/DEBUG] PyCqBot: > PING 96 79 9e 22 [binary, 4 bytes][0m
+[0m[2023-05-21 09:12:00,356][MainThread/DEBUG] PyCqBot: < PONG 96 79 9e 22 [binary, 4 bytes][0m
+[0m[2023-05-21 09:12:00,356][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:12:06,278][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...message_id":-9996981}\n' [391 bytes][0m
+[0m[2023-05-21 09:12:06,283][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684631525, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'font': 0, 'group_id': 521255310, 'message_seq': 41053, 'raw_message': '«˜ ∆', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Sydrr0', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'message': '«˜ ∆', 'user_id': 2562312527, 'message_id': -9996981}[0m
+[0m[2023-05-21 09:12:06,285][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-21 09:12:06,303][command/DEBUG] PyCqBot: Starting new HTTPS connection (1): www.csgoob.com:443[0m
+[0m[2023-05-21 09:12:06,637][command/DEBUG] PyCqBot: https://www.csgoob.com:443 "GET / HTTP/1.1" 200 None[0m
+[0m[2023-05-21 09:12:07,121][asyncHttp_loop/DEBUG] PyCqBot: cqAPI œÏ”¶: {'data': {'message_id': 1627644136}, 'message': '', 'retcode': 0, 'status': 'ok'}[0m
+[0m[2023-05-21 09:12:20,363][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:12:20,382][MainThread/DEBUG] PyCqBot: > PING a7 e0 0c 82 [binary, 4 bytes][0m
+[0m[2023-05-21 09:12:20,431][MainThread/DEBUG] PyCqBot: < PONG a7 e0 0c 82 [binary, 4 bytes][0m
+[0m[2023-05-21 09:12:20,454][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:12:31,842][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...","raw_message":"œÎƒÓ"}\n' [392 bytes][0m
+[0m[2023-05-21 09:12:31,844][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684631550, 'self_id': 1209309260, 'sub_type': 'normal', 'message_id': 369414270, 'anonymous': None, 'group_id': 521255310, 'message_seq': 41055, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Sydrr0', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'user_id': 2562312527, 'font': 0, 'message': 'œÎƒÓ', 'raw_message': 'œÎƒÓ'}[0m
+[0m[2023-05-21 09:12:31,847][command/INFO] PyCqBot: Sydrr0 (qq=2562312527,»∫∫≈=521255310)  π”√÷∏¡Ó: œÎƒÓ[0m
+[0m[2023-05-21 09:12:32,336][asyncHttp_loop/DEBUG] PyCqBot: cqAPI œÏ”¶: {'data': {'message_id': -1894940220}, 'message': '', 'retcode': 0, 'status': 'ok'}[0m
+[0m[2023-05-21 09:12:39,769][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...1}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:12:39,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631559, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 61, 'packet_sent': 49, 'packet_lost': 0, 'message_received': 2, 'message_sent': 2, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631551}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:12:39,772][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631559, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 61, 'packet_sent': 49, 'packet_lost': 0, 'message_received': 2, 'message_sent': 2, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631551}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:12:40,470][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:12:40,472][MainThread/DEBUG] PyCqBot: > PING e5 00 90 51 [binary, 4 bytes][0m
+[0m[2023-05-21 09:12:40,476][MainThread/DEBUG] PyCqBot: < PONG e5 00 90 51 [binary, 4 bytes][0m
+[0m[2023-05-21 09:12:40,477][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:12:43,321][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...8,"raw_message":"œÎƒÓ"}\n' [407 bytes][0m
+[0m[2023-05-21 09:12:43,323][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684631562, 'self_id': 1209309260, 'sub_type': 'normal', 'sender': {'age': 0, 'area': '', 'card': '≤º¥®ø·◊”', 'level': '', 'nickname': 'Sydrr0', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'message_id': -1921748436, 'font': 0, 'message': 'œÎƒÓ', 'message_seq': 31274, 'user_id': 2562312527, 'anonymous': None, 'group_id': 1170151918, 'raw_message': 'œÎƒÓ'}[0m
+[0m[2023-05-21 09:12:43,325][command/INFO] PyCqBot: ≤º¥®ø·◊” (qq=2562312527,»∫∫≈=1170151918)  π”√÷∏¡Ó: œÎƒÓ[0m
+[0m[2023-05-21 09:12:43,716][asyncHttp_loop/DEBUG] PyCqBot: cqAPI œÏ”¶: {'data': {'message_id': -93109574}, 'message': '', 'retcode': 0, 'status': 'ok'}[0m
+[0m[2023-05-21 09:13:00,490][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:13:00,490][MainThread/DEBUG] PyCqBot: > PING ad 5e c5 45 [binary, 4 bytes][0m
+[0m[2023-05-21 09:13:00,494][MainThread/DEBUG] PyCqBot: < PONG ad 5e c5 45 [binary, 4 bytes][0m
+[0m[2023-05-21 09:13:00,495][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:13:19,772][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:13:19,774][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631599, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 69, 'packet_sent': 55, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:13:19,775][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631599, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 69, 'packet_sent': 55, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:13:20,505][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:13:20,506][MainThread/DEBUG] PyCqBot: > PING 8d 4e 72 1d [binary, 4 bytes][0m
+[0m[2023-05-21 09:13:20,509][MainThread/DEBUG] PyCqBot: < PONG 8d 4e 72 1d [binary, 4 bytes][0m
+[0m[2023-05-21 09:13:20,510][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:13:40,518][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:13:40,519][MainThread/DEBUG] PyCqBot: > PING 'b\x1dX(' [text, 4 bytes][0m
+[0m[2023-05-21 09:13:40,522][MainThread/DEBUG] PyCqBot: < PONG 'b\x1dX(' [text, 4 bytes][0m
+[0m[2023-05-21 09:13:40,524][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:13:59,771][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:13:59,773][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631639, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 72, 'packet_sent': 58, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:13:59,775][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631639, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 72, 'packet_sent': 58, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:14:00,538][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:14:00,538][MainThread/DEBUG] PyCqBot: > PING 1c ba a2 05 [binary, 4 bytes][0m
+[0m[2023-05-21 09:14:00,541][MainThread/DEBUG] PyCqBot: < PONG 1c ba a2 05 [binary, 4 bytes][0m
+[0m[2023-05-21 09:14:00,543][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:14:20,561][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:14:20,564][MainThread/DEBUG] PyCqBot: > PING f3 b7 d0 94 [binary, 4 bytes][0m
+[0m[2023-05-21 09:14:20,568][MainThread/DEBUG] PyCqBot: < PONG f3 b7 d0 94 [binary, 4 bytes][0m
+[0m[2023-05-21 09:14:20,569][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:14:39,772][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:14:39,773][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631679, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 75, 'packet_sent': 61, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:14:39,775][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631679, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 75, 'packet_sent': 61, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:14:40,587][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:14:40,588][MainThread/DEBUG] PyCqBot: > PING c6 12 16 f2 [binary, 4 bytes][0m
+[0m[2023-05-21 09:14:40,592][MainThread/DEBUG] PyCqBot: < PONG c6 12 16 f2 [binary, 4 bytes][0m
+[0m[2023-05-21 09:14:40,593][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:15:00,607][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:15:00,609][MainThread/DEBUG] PyCqBot: > PING 8d 7e 33 5c [binary, 4 bytes][0m
+[0m[2023-05-21 09:15:00,617][MainThread/DEBUG] PyCqBot: < PONG 8d 7e 33 5c [binary, 4 bytes][0m
+[0m[2023-05-21 09:15:00,619][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:15:19,772][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:15:19,774][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631719, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 76, 'packet_sent': 62, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:15:19,776][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631719, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 76, 'packet_sent': 62, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:15:20,630][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:15:20,631][MainThread/DEBUG] PyCqBot: > PING 8a da 95 62 [binary, 4 bytes][0m
+[0m[2023-05-21 09:15:20,635][MainThread/DEBUG] PyCqBot: < PONG 8a da 95 62 [binary, 4 bytes][0m
+[0m[2023-05-21 09:15:20,637][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:15:40,644][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:15:40,645][MainThread/DEBUG] PyCqBot: > PING 30 df bb c6 [binary, 4 bytes][0m
+[0m[2023-05-21 09:15:40,649][MainThread/DEBUG] PyCqBot: < PONG 30 df bb c6 [binary, 4 bytes][0m
+[0m[2023-05-21 09:15:40,650][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:15:59,770][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:15:59,771][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631759, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 77, 'packet_sent': 63, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:15:59,773][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631759, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 77, 'packet_sent': 63, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:16:00,660][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:16:00,662][MainThread/DEBUG] PyCqBot: > PING a1 da 6d 54 [binary, 4 bytes][0m
+[0m[2023-05-21 09:16:00,664][MainThread/DEBUG] PyCqBot: < PONG a1 da 6d 54 [binary, 4 bytes][0m
+[0m[2023-05-21 09:16:00,666][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:16:20,672][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:16:20,674][MainThread/DEBUG] PyCqBot: > PING 41 f5 59 4b [binary, 4 bytes][0m
+[0m[2023-05-21 09:16:20,677][MainThread/DEBUG] PyCqBot: < PONG 41 f5 59 4b [binary, 4 bytes][0m
+[0m[2023-05-21 09:16:20,678][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:16:39,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:16:39,781][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631799, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 79, 'packet_sent': 65, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:16:39,782][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631799, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 79, 'packet_sent': 65, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:16:40,690][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:16:40,692][MainThread/DEBUG] PyCqBot: > PING 8e 20 80 54 [binary, 4 bytes][0m
+[0m[2023-05-21 09:16:40,694][MainThread/DEBUG] PyCqBot: < PONG 8e 20 80 54 [binary, 4 bytes][0m
+[0m[2023-05-21 09:16:40,696][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:17:00,710][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:17:00,711][MainThread/DEBUG] PyCqBot: > PING 8a 82 76 1e [binary, 4 bytes][0m
+[0m[2023-05-21 09:17:00,715][MainThread/DEBUG] PyCqBot: < PONG 8a 82 76 1e [binary, 4 bytes][0m
+[0m[2023-05-21 09:17:00,716][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:17:19,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:17:19,780][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631839, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 80, 'packet_sent': 66, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:17:19,786][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631839, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 80, 'packet_sent': 66, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:17:20,720][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:17:20,721][MainThread/DEBUG] PyCqBot: > PING 7c 62 cd cf [binary, 4 bytes][0m
+[0m[2023-05-21 09:17:20,724][MainThread/DEBUG] PyCqBot: < PONG 7c 62 cd cf [binary, 4 bytes][0m
+[0m[2023-05-21 09:17:20,726][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:17:40,727][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:17:40,728][MainThread/DEBUG] PyCqBot: > PING 34 33 68 df [binary, 4 bytes][0m
+[0m[2023-05-21 09:17:40,731][MainThread/DEBUG] PyCqBot: < PONG 34 33 68 df [binary, 4 bytes][0m
+[0m[2023-05-21 09:17:40,732][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:17:59,774][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:17:59,776][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631879, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 82, 'packet_sent': 68, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:17:59,777][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631879, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 82, 'packet_sent': 68, 'packet_lost': 0, 'message_received': 3, 'message_sent': 3, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631563}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:18:00,736][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:18:00,737][MainThread/DEBUG] PyCqBot: > PING b3 d3 91 81 [binary, 4 bytes][0m
+[0m[2023-05-21 09:18:00,740][MainThread/DEBUG] PyCqBot: < PONG b3 d3 91 81 [binary, 4 bytes][0m
+[0m[2023-05-21 09:18:00,741][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:18:04,877][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...ymous":null,"font":0}\n' [407 bytes][0m
+[0m[2023-05-21 09:18:04,879][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684631884, 'self_id': 1209309260, 'sub_type': 'normal', 'message_seq': 189589, 'group_id': 725665163, 'message': '«˜ ∆', 'raw_message': '«˜ ∆', 'sender': {'age': 0, 'area': '', 'card': '¥ÛµÒ¿œ ¶', 'level': '', 'nickname': 'Sydrr0', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'user_id': 2562312527, 'message_id': 1759991138, 'anonymous': None, 'font': 0}[0m
+[0m[2023-05-21 09:18:04,889][command/INFO] PyCqBot: ¥ÛµÒ¿œ ¶ (qq=2562312527,»∫∫≈=725665163)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-21 09:18:04,903][command/DEBUG] PyCqBot: Starting new HTTPS connection (1): www.csgoob.com:443[0m
+[0m[2023-05-21 09:18:05,229][command/DEBUG] PyCqBot: https://www.csgoob.com:443 "GET / HTTP/1.1" 200 None[0m
+[0m[2023-05-21 09:18:05,741][asyncHttp_loop/DEBUG] PyCqBot: cqAPI œÏ”¶: {'data': {'message_id': 136371335}, 'message': '', 'retcode': 0, 'status': 'ok'}[0m
+[0m[2023-05-21 09:18:20,764][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:18:20,765][MainThread/DEBUG] PyCqBot: > PING bc 19 95 23 [binary, 4 bytes][0m
+[0m[2023-05-21 09:18:20,769][MainThread/DEBUG] PyCqBot: < PONG bc 19 95 23 [binary, 4 bytes][0m
+[0m[2023-05-21 09:18:20,770][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:18:39,769][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:18:39,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631919, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 91, 'packet_sent': 75, 'packet_lost': 0, 'message_received': 4, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631884}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:18:39,772][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631919, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 91, 'packet_sent': 75, 'packet_lost': 0, 'message_received': 4, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631884}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:18:40,789][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:18:40,790][MainThread/DEBUG] PyCqBot: > PING 60 9a f0 37 [binary, 4 bytes][0m
+[0m[2023-05-21 09:18:40,793][MainThread/DEBUG] PyCqBot: < PONG 60 9a f0 37 [binary, 4 bytes][0m
+[0m[2023-05-21 09:18:40,794][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:18:56,480][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...sage_id":-2010379270}\n' [517 bytes][0m
+[0m[2023-05-21 09:18:56,481][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684631935, 'self_id': 1209309260, 'sub_type': 'normal', 'group_id': 778471917, 'message': '[CQ:reply,id=115729203][CQ:at,qq=466971554] [CQ:at,qq=466971554] £ø', 'message_seq': 762273, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'XwX', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2961116759}, 'user_id': 2961116759, 'anonymous': None, 'font': 0, 'raw_message': '[CQ:reply,id=115729203][CQ:at,qq=466971554] [CQ:at,qq=466971554] £ø', 'message_id': -2010379270}[0m
+[0m[2023-05-21 09:19:00,809][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:19:00,810][MainThread/DEBUG] PyCqBot: > PING f0 b2 de 83 [binary, 4 bytes][0m
+[0m[2023-05-21 09:19:00,812][MainThread/DEBUG] PyCqBot: < PONG f0 b2 de 83 [binary, 4 bytes][0m
+[0m[2023-05-21 09:19:00,814][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:19:07,306][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":2961116759}\n' [553 bytes][0m
+[0m[2023-05-21 09:19:07,307][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684631946, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'font': 0, 'message_seq': 762274, 'raw_message': '[CQ:reply,id=-1772421470][CQ:at,qq=1828732235] [CQ:at,qq=1828732235]  ÷ª˙æÕ’‚—˘µƒ', 'message_id': 373857881, 'group_id': 778471917, 'message': '[CQ:reply,id=-1772421470][CQ:at,qq=1828732235] [CQ:at,qq=1828732235]  ÷ª˙æÕ’‚—˘µƒ', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'XwX', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2961116759}, 'user_id': 2961116759}[0m
+[0m[2023-05-21 09:19:19,782][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:19:19,783][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631959, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 96, 'packet_sent': 78, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:19:19,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631959, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 96, 'packet_sent': 78, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:19:20,831][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:19:20,833][MainThread/DEBUG] PyCqBot: > PING 7a f5 af 3a [binary, 4 bytes][0m
+[0m[2023-05-21 09:19:20,834][MainThread/DEBUG] PyCqBot: < PONG 7a f5 af 3a [binary, 4 bytes][0m
+[0m[2023-05-21 09:19:20,836][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:19:40,842][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:19:41,131][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:19:59,768][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684631947}}}\n' [396 bytes][0m
+[0m[2023-05-21 09:19:59,769][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631999, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 97, 'packet_sent': 79, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}}[0m
+[0m[2023-05-21 09:19:59,771][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684631999, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 97, 'packet_sent': 79, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}}[0m
+[0m[2023-05-21 09:20:01,143][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:20:01,144][MainThread/DEBUG] PyCqBot: > PING cd 7d e6 8f [binary, 4 bytes][0m
+[0m[2023-05-21 09:20:01,147][MainThread/DEBUG] PyCqBot: < PONG cd 7d e6 8f [binary, 4 bytes][0m
+[0m[2023-05-21 09:20:01,149][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:20:21,152][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:20:21,153][MainThread/DEBUG] PyCqBot: > PING ba 18 d1 cc [binary, 4 bytes][0m
+[0m[2023-05-21 09:20:21,156][MainThread/DEBUG] PyCqBot: < PONG ba 18 d1 cc [binary, 4 bytes][0m
+[0m[2023-05-21 09:20:21,157][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:20:39,777][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [396 bytes][0m
+[0m[2023-05-21 09:20:39,778][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632039, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 99, 'packet_sent': 81, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:20:39,779][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632039, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 99, 'packet_sent': 81, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:20:41,177][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:20:41,178][MainThread/DEBUG] PyCqBot: > PING e9 52 f8 3b [binary, 4 bytes][0m
+[0m[2023-05-21 09:20:41,181][MainThread/DEBUG] PyCqBot: < PONG e9 52 f8 3b [binary, 4 bytes][0m
+[0m[2023-05-21 09:20:41,182][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:21:01,185][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:21:01,187][MainThread/DEBUG] PyCqBot: > PING f5 ae 46 75 [binary, 4 bytes][0m
+[0m[2023-05-21 09:21:01,191][MainThread/DEBUG] PyCqBot: < PONG f5 ae 46 75 [binary, 4 bytes][0m
+[0m[2023-05-21 09:21:01,192][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:21:19,770][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684631947}}}\n' [397 bytes][0m
+[0m[2023-05-21 09:21:19,771][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632079, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 101, 'packet_sent': 83, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}}[0m
+[0m[2023-05-21 09:21:19,772][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632079, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 101, 'packet_sent': 83, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}}[0m
+[0m[2023-05-21 09:21:21,199][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:21:21,200][MainThread/DEBUG] PyCqBot: > PING a9 e4 7d cf [binary, 4 bytes][0m
+[0m[2023-05-21 09:21:21,203][MainThread/DEBUG] PyCqBot: < PONG a9 e4 7d cf [binary, 4 bytes][0m
+[0m[2023-05-21 09:21:21,204][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:21:41,206][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:21:41,207][MainThread/DEBUG] PyCqBot: > PING 'z<=(' [text, 4 bytes][0m
+[0m[2023-05-21 09:21:41,209][MainThread/DEBUG] PyCqBot: < PONG 'z<=(' [text, 4 bytes][0m
+[0m[2023-05-21 09:21:41,211][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:21:59,769][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:21:59,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632119, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 102, 'packet_sent': 84, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:21:59,772][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632119, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 102, 'packet_sent': 84, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:22:01,220][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:22:01,223][MainThread/DEBUG] PyCqBot: > PING 97 7e 71 cf [binary, 4 bytes][0m
+[0m[2023-05-21 09:22:01,227][MainThread/DEBUG] PyCqBot: < PONG 97 7e 71 cf [binary, 4 bytes][0m
+[0m[2023-05-21 09:22:01,228][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:22:21,234][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:22:21,236][MainThread/DEBUG] PyCqBot: > PING 0d ab b2 9d [binary, 4 bytes][0m
+[0m[2023-05-21 09:22:21,239][MainThread/DEBUG] PyCqBot: < PONG 0d ab b2 9d [binary, 4 bytes][0m
+[0m[2023-05-21 09:22:21,240][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:22:39,772][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:22:39,773][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632159, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 104, 'packet_sent': 86, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:22:39,775][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632159, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 104, 'packet_sent': 86, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:22:41,252][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:22:41,253][MainThread/DEBUG] PyCqBot: > PING df 68 07 56 [binary, 4 bytes][0m
+[0m[2023-05-21 09:22:41,256][MainThread/DEBUG] PyCqBot: < PONG df 68 07 56 [binary, 4 bytes][0m
+[0m[2023-05-21 09:22:41,257][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:23:01,267][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:23:01,269][MainThread/DEBUG] PyCqBot: > PING f0 59 4a 4f [binary, 4 bytes][0m
+[0m[2023-05-21 09:23:01,271][MainThread/DEBUG] PyCqBot: < PONG f0 59 4a 4f [binary, 4 bytes][0m
+[0m[2023-05-21 09:23:01,273][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:23:19,778][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:23:19,779][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632199, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 105, 'packet_sent': 87, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:23:19,781][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632199, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 105, 'packet_sent': 87, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:23:21,297][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:23:21,298][MainThread/DEBUG] PyCqBot: > PING 71 c9 9e 99 [binary, 4 bytes][0m
+[0m[2023-05-21 09:23:21,302][MainThread/DEBUG] PyCqBot: < PONG 71 c9 9e 99 [binary, 4 bytes][0m
+[0m[2023-05-21 09:23:21,303][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:23:41,309][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:23:41,310][MainThread/DEBUG] PyCqBot: > PING 8e 61 48 70 [binary, 4 bytes][0m
+[0m[2023-05-21 09:23:41,313][MainThread/DEBUG] PyCqBot: < PONG 8e 61 48 70 [binary, 4 bytes][0m
+[0m[2023-05-21 09:23:41,314][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:23:59,782][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684631947}}}\n' [397 bytes][0m
+[0m[2023-05-21 09:23:59,783][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632239, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 106, 'packet_sent': 88, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}}[0m
+[0m[2023-05-21 09:23:59,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632239, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 106, 'packet_sent': 88, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}}[0m
+[0m[2023-05-21 09:24:01,326][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:24:01,328][MainThread/DEBUG] PyCqBot: > PING dd b6 b7 96 [binary, 4 bytes][0m
+[0m[2023-05-21 09:24:01,330][MainThread/DEBUG] PyCqBot: < PONG dd b6 b7 96 [binary, 4 bytes][0m
+[0m[2023-05-21 09:24:01,331][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:24:21,343][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:24:21,344][MainThread/DEBUG] PyCqBot: > PING a2 e4 85 6a [binary, 4 bytes][0m
+[0m[2023-05-21 09:24:21,347][MainThread/DEBUG] PyCqBot: < PONG a2 e4 85 6a [binary, 4 bytes][0m
+[0m[2023-05-21 09:24:21,349][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:24:39,782][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:24:39,784][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632279, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 109, 'packet_sent': 91, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:24:39,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632279, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 109, 'packet_sent': 91, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:24:41,352][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:24:41,353][MainThread/DEBUG] PyCqBot: > PING c4 af 90 f8 [binary, 4 bytes][0m
+[0m[2023-05-21 09:24:41,356][MainThread/DEBUG] PyCqBot: < PONG c4 af 90 f8 [binary, 4 bytes][0m
+[0m[2023-05-21 09:24:41,357][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:25:01,372][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:25:01,374][MainThread/DEBUG] PyCqBot: > PING 9e ed df 84 [binary, 4 bytes][0m
+[0m[2023-05-21 09:25:01,379][MainThread/DEBUG] PyCqBot: < PONG 9e ed df 84 [binary, 4 bytes][0m
+[0m[2023-05-21 09:25:01,381][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:25:19,771][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:25:19,772][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632319, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 110, 'packet_sent': 92, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:25:19,774][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632319, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 110, 'packet_sent': 92, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:25:21,384][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:25:21,385][MainThread/DEBUG] PyCqBot: > PING 58 8f 1b d8 [binary, 4 bytes][0m
+[0m[2023-05-21 09:25:21,389][MainThread/DEBUG] PyCqBot: < PONG 58 8f 1b d8 [binary, 4 bytes][0m
+[0m[2023-05-21 09:25:21,390][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:25:41,402][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:25:41,404][MainThread/DEBUG] PyCqBot: > PING de b8 75 bd [binary, 4 bytes][0m
+[0m[2023-05-21 09:25:41,411][MainThread/DEBUG] PyCqBot: < PONG de b8 75 bd [binary, 4 bytes][0m
+[0m[2023-05-21 09:25:41,414][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:25:59,770][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:25:59,771][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632359, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 111, 'packet_sent': 93, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:25:59,773][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632359, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 111, 'packet_sent': 93, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:26:01,416][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:26:01,418][MainThread/DEBUG] PyCqBot: > PING 14 f8 c9 65 [binary, 4 bytes][0m
+[0m[2023-05-21 09:26:01,421][MainThread/DEBUG] PyCqBot: < PONG 14 f8 c9 65 [binary, 4 bytes][0m
+[0m[2023-05-21 09:26:01,422][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:26:21,431][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:26:21,433][MainThread/DEBUG] PyCqBot: > PING 18 59 a9 a1 [binary, 4 bytes][0m
+[0m[2023-05-21 09:26:21,436][MainThread/DEBUG] PyCqBot: < PONG 18 59 a9 a1 [binary, 4 bytes][0m
+[0m[2023-05-21 09:26:21,437][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:26:39,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:26:39,781][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632399, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 113, 'packet_sent': 95, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:26:39,783][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632399, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 113, 'packet_sent': 95, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:26:41,434][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:26:41,435][MainThread/DEBUG] PyCqBot: > PING 79 13 a5 85 [binary, 4 bytes][0m
+[0m[2023-05-21 09:26:41,438][MainThread/DEBUG] PyCqBot: < PONG 79 13 a5 85 [binary, 4 bytes][0m
+[0m[2023-05-21 09:26:41,439][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:27:01,443][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:27:01,446][MainThread/DEBUG] PyCqBot: > PING de 6b 77 d0 [binary, 4 bytes][0m
+[0m[2023-05-21 09:27:01,452][MainThread/DEBUG] PyCqBot: < PONG de 6b 77 d0 [binary, 4 bytes][0m
+[0m[2023-05-21 09:27:01,453][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:27:19,776][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:27:19,778][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632439, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 114, 'packet_sent': 96, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:27:19,780][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632439, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 114, 'packet_sent': 96, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:27:21,472][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:27:21,473][MainThread/DEBUG] PyCqBot: > PING b6 5f f4 b1 [binary, 4 bytes][0m
+[0m[2023-05-21 09:27:21,477][MainThread/DEBUG] PyCqBot: < PONG b6 5f f4 b1 [binary, 4 bytes][0m
+[0m[2023-05-21 09:27:21,478][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:27:41,481][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:27:41,482][MainThread/DEBUG] PyCqBot: > PING 20 f9 03 71 [binary, 4 bytes][0m
+[0m[2023-05-21 09:27:41,489][MainThread/DEBUG] PyCqBot: < PONG 20 f9 03 71 [binary, 4 bytes][0m
+[0m[2023-05-21 09:27:41,492][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:27:59,775][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [397 bytes][0m
+[0m[2023-05-21 09:27:59,778][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632479, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 115, 'packet_sent': 97, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:27:59,779][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632479, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 115, 'packet_sent': 97, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:28:01,501][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:28:01,502][MainThread/DEBUG] PyCqBot: > PING ba 50 a0 53 [binary, 4 bytes][0m
+[0m[2023-05-21 09:28:01,504][MainThread/DEBUG] PyCqBot: < PONG ba 50 a0 53 [binary, 4 bytes][0m
+[0m[2023-05-21 09:28:01,506][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:28:21,507][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:28:21,508][MainThread/DEBUG] PyCqBot: > PING 91 98 78 b6 [binary, 4 bytes][0m
+[0m[2023-05-21 09:28:21,513][MainThread/DEBUG] PyCqBot: < PONG 91 98 78 b6 [binary, 4 bytes][0m
+[0m[2023-05-21 09:28:21,514][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:28:39,776][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:28:39,778][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632519, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 118, 'packet_sent': 100, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:28:39,780][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632519, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 118, 'packet_sent': 100, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:28:41,529][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:28:41,530][MainThread/DEBUG] PyCqBot: > PING 1f 78 00 ad [binary, 4 bytes][0m
+[0m[2023-05-21 09:28:41,533][MainThread/DEBUG] PyCqBot: < PONG 1f 78 00 ad [binary, 4 bytes][0m
+[0m[2023-05-21 09:28:41,535][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:29:01,541][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:29:01,542][MainThread/DEBUG] PyCqBot: > PING f3 7b 51 45 [binary, 4 bytes][0m
+[0m[2023-05-21 09:29:01,546][MainThread/DEBUG] PyCqBot: < PONG f3 7b 51 45 [binary, 4 bytes][0m
+[0m[2023-05-21 09:29:01,547][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:29:19,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:29:19,780][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632559, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 119, 'packet_sent': 101, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:29:19,781][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632559, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 119, 'packet_sent': 101, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:29:21,555][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:29:21,557][MainThread/DEBUG] PyCqBot: > PING 79 52 9d ac [binary, 4 bytes][0m
+[0m[2023-05-21 09:29:21,560][MainThread/DEBUG] PyCqBot: < PONG 79 52 9d ac [binary, 4 bytes][0m
+[0m[2023-05-21 09:29:21,562][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:29:41,567][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:29:41,568][MainThread/DEBUG] PyCqBot: > PING a9 6a 17 d7 [binary, 4 bytes][0m
+[0m[2023-05-21 09:29:41,575][MainThread/DEBUG] PyCqBot: < PONG a9 6a 17 d7 [binary, 4 bytes][0m
+[0m[2023-05-21 09:29:41,577][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:29:59,767][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:29:59,769][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632599, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 120, 'packet_sent': 102, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:29:59,770][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632599, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 120, 'packet_sent': 102, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:30:01,599][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:30:01,600][MainThread/DEBUG] PyCqBot: > PING 6f e9 ba 68 [binary, 4 bytes][0m
+[0m[2023-05-21 09:30:01,602][MainThread/DEBUG] PyCqBot: < PONG 6f e9 ba 68 [binary, 4 bytes][0m
+[0m[2023-05-21 09:30:01,604][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:30:21,611][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:30:21,612][MainThread/DEBUG] PyCqBot: > PING 97 5e 42 c6 [binary, 4 bytes][0m
+[0m[2023-05-21 09:30:21,615][MainThread/DEBUG] PyCqBot: < PONG 97 5e 42 c6 [binary, 4 bytes][0m
+[0m[2023-05-21 09:30:21,616][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:30:39,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684631947}}}\n' [398 bytes][0m
+[0m[2023-05-21 09:30:39,780][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632639, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 122, 'packet_sent': 104, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}}[0m
+[0m[2023-05-21 09:30:39,782][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632639, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 122, 'packet_sent': 104, 'packet_lost': 0, 'message_received': 6, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684631947}}}[0m
+[0m[2023-05-21 09:30:41,614][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:30:41,616][MainThread/DEBUG] PyCqBot: > PING 59 79 6a c3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:30:41,619][MainThread/DEBUG] PyCqBot: < PONG 59 79 6a c3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:30:41,621][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:31:01,630][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:31:01,631][MainThread/DEBUG] PyCqBot: > PING f5 60 9a 15 [binary, 4 bytes][0m
+[0m[2023-05-21 09:31:01,636][MainThread/DEBUG] PyCqBot: < PONG f5 60 9a 15 [binary, 4 bytes][0m
+[0m[2023-05-21 09:31:01,637][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:31:17,054][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":2562312527}\n' [527 bytes][0m
+[0m[2023-05-21 09:31:17,056][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684632676, 'self_id': 1209309260, 'sub_type': 'normal', 'raw_message': 'Œ“Õª»ª∑¢œ÷£¨¥Ûº“∂º «Ω±“£¨Œ“ «“¯±“£¨Œ“∫‹’‰πÛ', 'sender': {'age': 0, 'area': '', 'card': '¥ÛµÒ¿œ ¶', 'level': '', 'nickname': 'Sydrr0', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'message_id': 1632612047, 'anonymous': None, 'font': 0, 'group_id': 778471917, 'message': 'Œ“Õª»ª∑¢œ÷£¨¥Ûº“∂º «Ω±“£¨Œ“ «“¯±“£¨Œ“∫‹’‰πÛ', 'message_seq': 762275, 'user_id': 2562312527}[0m
+[0m[2023-05-21 09:31:19,769][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...7}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:31:19,771][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632679, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 126, 'packet_sent': 107, 'packet_lost': 0, 'message_received': 7, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632677}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:31:19,773][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632679, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 126, 'packet_sent': 107, 'packet_lost': 0, 'message_received': 7, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632677}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:31:21,642][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:31:21,644][MainThread/DEBUG] PyCqBot: > PING f3 a8 75 3f [binary, 4 bytes][0m
+[0m[2023-05-21 09:31:21,646][MainThread/DEBUG] PyCqBot: < PONG f3 a8 75 3f [binary, 4 bytes][0m
+[0m[2023-05-21 09:31:21,648][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:31:41,652][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:31:41,654][MainThread/DEBUG] PyCqBot: > PING 7f 02 b2 db [binary, 4 bytes][0m
+[0m[2023-05-21 09:31:41,656][MainThread/DEBUG] PyCqBot: < PONG 7f 02 b2 db [binary, 4 bytes][0m
+[0m[2023-05-21 09:31:41,658][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:31:44,623][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":2261591654}\n' [1201 bytes][0m
+[0m[2023-05-21 09:31:44,624][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684632703, 'self_id': 1209309260, 'sub_type': 'normal', 'group_id': 778471917, 'raw_message': '∑Ω“ª∞—∫˚µ˚[CQ:image,file=294b0bf92b8f5ad48431d7d4478967ca.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/2261591654/778471917-2670599708-294B0BF92B8F5AD48431D7D4478967CA/0?term=2&amp;is_origin=0][CQ:image,file=edd41d6e3062a73c19791b277ee8318e.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/2261591654/778471917-2995364378-EDD41D6E3062A73C19791B277EE8318E/0?term=2&amp;is_origin=0]', 'message_id': -129564811, 'anonymous': None, 'font': 0, 'message': '∑Ω“ª∞—∫˚µ˚[CQ:image,file=294b0bf92b8f5ad48431d7d4478967ca.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/2261591654/778471917-2670599708-294B0BF92B8F5AD48431D7D4478967CA/0?term=2&amp;is_origin=0][CQ:image,file=edd41d6e3062a73c19791b277ee8318e.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/2261591654/778471917-2995364378-EDD41D6E3062A73C19791B277EE8318E/0?term=2&amp;is_origin=0]', 'message_seq': 762276, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '1f', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2261591654}, 'user_id': 2261591654}[0m
+[0m[2023-05-21 09:31:59,775][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:31:59,776][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632719, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 129, 'packet_sent': 109, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:31:59,781][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632719, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 129, 'packet_sent': 109, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:32:01,662][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:32:01,663][MainThread/DEBUG] PyCqBot: > PING ec 58 6a 7f [binary, 4 bytes][0m
+[0m[2023-05-21 09:32:01,666][MainThread/DEBUG] PyCqBot: < PONG ec 58 6a 7f [binary, 4 bytes][0m
+[0m[2023-05-21 09:32:01,667][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:32:21,669][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:32:21,670][MainThread/DEBUG] PyCqBot: > PING '\x13ow#' [text, 4 bytes][0m
+[0m[2023-05-21 09:32:21,673][MainThread/DEBUG] PyCqBot: < PONG '\x13ow#' [text, 4 bytes][0m
+[0m[2023-05-21 09:32:21,674][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:32:39,776][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:32:39,777][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632759, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 131, 'packet_sent': 111, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:32:39,779][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632759, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 131, 'packet_sent': 111, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:32:41,692][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:32:41,694][MainThread/DEBUG] PyCqBot: > PING d5 fe 65 41 [binary, 4 bytes][0m
+[0m[2023-05-21 09:32:41,699][MainThread/DEBUG] PyCqBot: < PONG d5 fe 65 41 [binary, 4 bytes][0m
+[0m[2023-05-21 09:32:41,700][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:33:01,706][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:33:01,707][MainThread/DEBUG] PyCqBot: > PING 94 3d e0 ba [binary, 4 bytes][0m
+[0m[2023-05-21 09:33:01,710][MainThread/DEBUG] PyCqBot: < PONG 94 3d e0 ba [binary, 4 bytes][0m
+[0m[2023-05-21 09:33:01,712][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:33:19,773][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:33:19,775][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632799, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 132, 'packet_sent': 112, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:33:19,776][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632799, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 132, 'packet_sent': 112, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:33:21,721][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:33:21,722][MainThread/DEBUG] PyCqBot: > PING 'O|\x133' [text, 4 bytes][0m
+[0m[2023-05-21 09:33:21,725][MainThread/DEBUG] PyCqBot: < PONG 'O|\x133' [text, 4 bytes][0m
+[0m[2023-05-21 09:33:21,727][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:33:41,740][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:33:41,741][MainThread/DEBUG] PyCqBot: > PING 73 9e d6 05 [binary, 4 bytes][0m
+[0m[2023-05-21 09:33:41,744][MainThread/DEBUG] PyCqBot: < PONG 73 9e d6 05 [binary, 4 bytes][0m
+[0m[2023-05-21 09:33:41,745][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:33:59,782][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:33:59,784][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632839, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 133, 'packet_sent': 113, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:33:59,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632839, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 133, 'packet_sent': 113, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:34:01,743][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:34:01,745][MainThread/DEBUG] PyCqBot: > PING dc fb 98 fa [binary, 4 bytes][0m
+[0m[2023-05-21 09:34:01,749][MainThread/DEBUG] PyCqBot: < PONG dc fb 98 fa [binary, 4 bytes][0m
+[0m[2023-05-21 09:34:01,751][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:34:21,761][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:34:21,762][MainThread/DEBUG] PyCqBot: > PING b5 a0 a8 ec [binary, 4 bytes][0m
+[0m[2023-05-21 09:34:21,765][MainThread/DEBUG] PyCqBot: < PONG b5 a0 a8 ec [binary, 4 bytes][0m
+[0m[2023-05-21 09:34:21,767][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:34:39,781][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:34:39,783][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632879, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 135, 'packet_sent': 115, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:34:39,784][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632879, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 135, 'packet_sent': 115, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:34:41,781][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:34:41,782][MainThread/DEBUG] PyCqBot: > PING 2f 4c 6c e7 [binary, 4 bytes][0m
+[0m[2023-05-21 09:34:41,784][MainThread/DEBUG] PyCqBot: < PONG 2f 4c 6c e7 [binary, 4 bytes][0m
+[0m[2023-05-21 09:34:41,786][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:35:01,802][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:35:01,803][MainThread/DEBUG] PyCqBot: > PING fc d2 fe c4 [binary, 4 bytes][0m
+[0m[2023-05-21 09:35:01,807][MainThread/DEBUG] PyCqBot: < PONG fc d2 fe c4 [binary, 4 bytes][0m
+[0m[2023-05-21 09:35:01,808][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:35:19,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684632704}}}\n' [398 bytes][0m
+[0m[2023-05-21 09:35:19,780][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632919, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 137, 'packet_sent': 117, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}}[0m
+[0m[2023-05-21 09:35:19,781][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632919, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 137, 'packet_sent': 117, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}}[0m
+[0m[2023-05-21 09:35:21,813][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:35:21,814][MainThread/DEBUG] PyCqBot: > PING 95 6e 64 1b [binary, 4 bytes][0m
+[0m[2023-05-21 09:35:21,817][MainThread/DEBUG] PyCqBot: < PONG 95 6e 64 1b [binary, 4 bytes][0m
+[0m[2023-05-21 09:35:21,818][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:35:41,834][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:35:41,835][MainThread/DEBUG] PyCqBot: > PING 9a 8e 37 7d [binary, 4 bytes][0m
+[0m[2023-05-21 09:35:41,839][MainThread/DEBUG] PyCqBot: < PONG 9a 8e 37 7d [binary, 4 bytes][0m
+[0m[2023-05-21 09:35:41,840][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:35:59,767][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:35:59,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632959, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 138, 'packet_sent': 118, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:35:59,771][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632959, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 138, 'packet_sent': 118, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:36:01,842][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:36:01,843][MainThread/DEBUG] PyCqBot: > PING 24 ae d5 d3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:36:01,846][MainThread/DEBUG] PyCqBot: < PONG 24 ae d5 d3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:36:01,848][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:36:21,853][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:36:21,855][MainThread/DEBUG] PyCqBot: > PING 2f 7b ba 94 [binary, 4 bytes][0m
+[0m[2023-05-21 09:36:21,858][MainThread/DEBUG] PyCqBot: < PONG 2f 7b ba 94 [binary, 4 bytes][0m
+[0m[2023-05-21 09:36:21,859][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:36:39,781][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:36:39,783][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632999, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 140, 'packet_sent': 120, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:36:39,786][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684632999, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 140, 'packet_sent': 120, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:36:41,880][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:36:41,882][MainThread/DEBUG] PyCqBot: > PING 4a 68 d3 fe [binary, 4 bytes][0m
+[0m[2023-05-21 09:36:41,884][MainThread/DEBUG] PyCqBot: < PONG 4a 68 d3 fe [binary, 4 bytes][0m
+[0m[2023-05-21 09:36:41,886][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:37:01,887][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:37:01,889][MainThread/DEBUG] PyCqBot: > PING b6 d4 eb b3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:37:01,891][MainThread/DEBUG] PyCqBot: < PONG b6 d4 eb b3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:37:01,893][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:37:19,778][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:37:19,779][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633039, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 141, 'packet_sent': 121, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:37:19,781][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633039, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 141, 'packet_sent': 121, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:37:21,901][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:37:21,903][MainThread/DEBUG] PyCqBot: > PING 27 85 08 26 [binary, 4 bytes][0m
+[0m[2023-05-21 09:37:21,905][MainThread/DEBUG] PyCqBot: < PONG 27 85 08 26 [binary, 4 bytes][0m
+[0m[2023-05-21 09:37:21,907][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:37:41,333][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"notice","notice_type":"friend_add...0,"user_id":66600000}\n' [108 bytes][0m
+[0m[2023-05-21 09:37:41,335][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® notice_friend_add  ¬º˛: {'post_type': 'notice', 'notice_type': 'friend_add', 'time': 1684633061, 'self_id': 1209309260, 'user_id': 66600000}[0m
+[0m[2023-05-21 09:37:41,922][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:37:41,924][MainThread/DEBUG] PyCqBot: > PING 41 68 df 7d [binary, 4 bytes][0m
+[0m[2023-05-21 09:37:41,927][MainThread/DEBUG] PyCqBot: < PONG 41 68 df 7d [binary, 4 bytes][0m
+[0m[2023-05-21 09:37:41,928][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:37:59,771][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:37:59,772][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633079, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 152, 'packet_sent': 132, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:37:59,774][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633079, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 152, 'packet_sent': 132, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:38:01,934][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:38:01,935][MainThread/DEBUG] PyCqBot: > PING be 07 3a ce [binary, 4 bytes][0m
+[0m[2023-05-21 09:38:01,938][MainThread/DEBUG] PyCqBot: < PONG be 07 3a ce [binary, 4 bytes][0m
+[0m[2023-05-21 09:38:01,939][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:38:21,952][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:38:21,954][MainThread/DEBUG] PyCqBot: > PING '+yAv' [text, 4 bytes][0m
+[0m[2023-05-21 09:38:21,959][MainThread/DEBUG] PyCqBot: < PONG '+yAv' [text, 4 bytes][0m
+[0m[2023-05-21 09:38:21,960][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:38:35,134][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"notice","notice_type":"friend_add...,"user_id":800864728}\n' [109 bytes][0m
+[0m[2023-05-21 09:38:35,135][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® notice_friend_add  ¬º˛: {'post_type': 'notice', 'notice_type': 'friend_add', 'time': 1684633115, 'self_id': 1209309260, 'user_id': 800864728}[0m
+[0m[2023-05-21 09:38:39,780][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:38:39,782][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633119, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 162, 'packet_sent': 142, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:38:39,783][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633119, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 162, 'packet_sent': 142, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:38:41,961][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:38:41,962][MainThread/DEBUG] PyCqBot: > PING 56 46 dc 02 [binary, 4 bytes][0m
+[0m[2023-05-21 09:38:41,965][MainThread/DEBUG] PyCqBot: < PONG 56 46 dc 02 [binary, 4 bytes][0m
+[0m[2023-05-21 09:38:41,970][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:39:01,982][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:39:01,982][MainThread/DEBUG] PyCqBot: > PING 47 96 cc 72 [binary, 4 bytes][0m
+[0m[2023-05-21 09:39:01,985][MainThread/DEBUG] PyCqBot: < PONG 47 96 cc 72 [binary, 4 bytes][0m
+[0m[2023-05-21 09:39:01,987][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:39:11,442][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"notice","notice_type":"friend_add...,"user_id":800814974}\n' [109 bytes][0m
+[0m[2023-05-21 09:39:11,443][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® notice_friend_add  ¬º˛: {'post_type': 'notice', 'notice_type': 'friend_add', 'time': 1684633151, 'self_id': 1209309260, 'user_id': 800814974}[0m
+[0m[2023-05-21 09:39:19,769][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:39:19,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633159, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 178, 'packet_sent': 158, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:39:19,772][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633159, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 178, 'packet_sent': 158, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:39:22,001][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:39:22,008][MainThread/DEBUG] PyCqBot: > PING 63 14 07 a2 [binary, 4 bytes][0m
+[0m[2023-05-21 09:39:22,011][MainThread/DEBUG] PyCqBot: < PONG 63 14 07 a2 [binary, 4 bytes][0m
+[0m[2023-05-21 09:39:22,012][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:39:42,026][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:39:42,028][MainThread/DEBUG] PyCqBot: > PING 9f 68 93 e7 [binary, 4 bytes][0m
+[0m[2023-05-21 09:39:42,031][MainThread/DEBUG] PyCqBot: < PONG 9f 68 93 e7 [binary, 4 bytes][0m
+[0m[2023-05-21 09:39:42,032][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:39:59,771][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [398 bytes][0m
+[0m[2023-05-21 09:39:59,773][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633199, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 185, 'packet_sent': 165, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:39:59,774][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633199, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 185, 'packet_sent': 165, 'packet_lost': 0, 'message_received': 8, 'message_sent': 4, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684632704}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:40:00,744][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...,"message_seq":31346}\n' [416 bytes][0m
+[0m[2023-05-21 09:40:00,755][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684633199, 'self_id': 1209309260, 'sub_type': 'normal', 'message': '«˜ ∆', 'raw_message': '«˜ ∆', 'sender': {'age': 0, 'area': '', 'card': '∏ﬂ√ÃÀ·Ó∆£®KYMnO4£©', 'level': '', 'nickname': 'Sydrr0', 'role': 'owner', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'user_id': 2562312527, 'message_id': 426506762, 'anonymous': None, 'font': 0, 'group_id': 686871654, 'message_seq': 31346}[0m
+[0m[2023-05-21 09:40:00,779][command/INFO] PyCqBot: ∏ﬂ√ÃÀ·Ó∆£®KYMnO4£© (qq=2562312527,»∫∫≈=686871654)  π”√÷∏¡Ó: «˜ ∆[0m
+[0m[2023-05-21 09:40:00,800][command/DEBUG] PyCqBot: Starting new HTTPS connection (1): www.csgoob.com:443[0m
+[0m[2023-05-21 09:40:01,153][command/DEBUG] PyCqBot: https://www.csgoob.com:443 "GET / HTTP/1.1" 200 None[0m
+[0m[2023-05-21 09:40:01,633][asyncHttp_loop/DEBUG] PyCqBot: cqAPI œÏ”¶: {'data': {'message_id': 1852623516}, 'message': '', 'retcode': 0, 'status': 'ok'}[0m
+[0m[2023-05-21 09:40:02,050][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:40:02,052][MainThread/DEBUG] PyCqBot: > PING 9f 22 37 6f [binary, 4 bytes][0m
+[0m[2023-05-21 09:40:02,056][MainThread/DEBUG] PyCqBot: < PONG 9f 22 37 6f [binary, 4 bytes][0m
+[0m[2023-05-21 09:40:02,057][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:40:13,328][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":2562312527}\n' [422 bytes][0m
+[0m[2023-05-21 09:40:13,330][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684633212, 'self_id': 1209309260, 'sub_type': 'normal', 'font': 0, 'group_id': 686871654, 'raw_message': 'ª∆ΩÕ¯', 'message_id': -19671283, 'anonymous': None, 'message': 'ª∆ΩÕ¯', 'message_seq': 31348, 'sender': {'age': 0, 'area': '', 'card': '∏ﬂ√ÃÀ·Ó∆£®KYMnO4£©', 'level': '', 'nickname': 'Sydrr0', 'role': 'owner', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'user_id': 2562312527}[0m
+[0m[2023-05-21 09:40:13,332][command/INFO] PyCqBot: ∏ﬂ√ÃÀ·Ó∆£®KYMnO4£© (qq=2562312527,»∫∫≈=686871654)  π”√÷∏¡Ó: ª∆ΩÕ¯[0m
+[0m[2023-05-21 09:40:13,346][command/DEBUG] PyCqBot: Starting new HTTPS connection (1): buff.163.com:443[0m
+[0m[2023-05-21 09:40:13,849][command/DEBUG] PyCqBot: https://buff.163.com:443 "GET /goods/774695?from=market HTTP/1.1" 200 None[0m
+[0m[2023-05-21 09:40:14,466][asyncHttp_loop/DEBUG] PyCqBot: cqAPI œÏ”¶: {'data': {'message_id': -1982535781}, 'message': '', 'retcode': 0, 'status': 'ok'}[0m
+[0m[2023-05-21 09:40:22,054][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:40:22,055][MainThread/DEBUG] PyCqBot: > PING a2 9c 70 6d [binary, 4 bytes][0m
+[0m[2023-05-21 09:40:22,058][MainThread/DEBUG] PyCqBot: < PONG a2 9c 70 6d [binary, 4 bytes][0m
+[0m[2023-05-21 09:40:22,059][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:40:39,768][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684633213}}}\n' [399 bytes][0m
+[0m[2023-05-21 09:40:39,769][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633239, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 196, 'packet_sent': 172, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}}[0m
+[0m[2023-05-21 09:40:39,771][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633239, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 196, 'packet_sent': 172, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}}[0m
+[0m[2023-05-21 09:40:42,063][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:40:42,064][MainThread/DEBUG] PyCqBot: > PING 5c 8d 04 7d [binary, 4 bytes][0m
+[0m[2023-05-21 09:40:42,068][MainThread/DEBUG] PyCqBot: < PONG 5c 8d 04 7d [binary, 4 bytes][0m
+[0m[2023-05-21 09:40:42,070][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:41:02,085][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:41:02,086][MainThread/DEBUG] PyCqBot: > PING bf cb 49 78 [binary, 4 bytes][0m
+[0m[2023-05-21 09:41:02,089][MainThread/DEBUG] PyCqBot: < PONG bf cb 49 78 [binary, 4 bytes][0m
+[0m[2023-05-21 09:41:02,090][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:41:19,781][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684633213}}}\n' [399 bytes][0m
+[0m[2023-05-21 09:41:19,782][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633279, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 197, 'packet_sent': 173, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}}[0m
+[0m[2023-05-21 09:41:19,784][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633279, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 197, 'packet_sent': 173, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}}[0m
+[0m[2023-05-21 09:41:22,086][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:41:22,087][MainThread/DEBUG] PyCqBot: > PING de c0 e4 a7 [binary, 4 bytes][0m
+[0m[2023-05-21 09:41:22,090][MainThread/DEBUG] PyCqBot: < PONG de c0 e4 a7 [binary, 4 bytes][0m
+[0m[2023-05-21 09:41:22,091][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:41:42,109][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:41:42,112][MainThread/DEBUG] PyCqBot: > PING 25 4d 9f f3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:41:42,116][MainThread/DEBUG] PyCqBot: < PONG 25 4d 9f f3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:41:42,117][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:41:59,780][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:41:59,781][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633319, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 198, 'packet_sent': 174, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:41:59,782][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633319, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 198, 'packet_sent': 174, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:42:02,120][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:42:02,122][MainThread/DEBUG] PyCqBot: > PING c7 15 bb 48 [binary, 4 bytes][0m
+[0m[2023-05-21 09:42:02,124][MainThread/DEBUG] PyCqBot: < PONG c7 15 bb 48 [binary, 4 bytes][0m
+[0m[2023-05-21 09:42:02,126][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:42:22,138][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:42:22,140][MainThread/DEBUG] PyCqBot: > PING f2 dd bf 7f [binary, 4 bytes][0m
+[0m[2023-05-21 09:42:22,143][MainThread/DEBUG] PyCqBot: < PONG f2 dd bf 7f [binary, 4 bytes][0m
+[0m[2023-05-21 09:42:22,144][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:42:39,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684633213}}}\n' [399 bytes][0m
+[0m[2023-05-21 09:42:39,781][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633359, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 201, 'packet_sent': 177, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}}[0m
+[0m[2023-05-21 09:42:39,783][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633359, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 201, 'packet_sent': 177, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}}[0m
+[0m[2023-05-21 09:42:42,151][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:42:42,152][MainThread/DEBUG] PyCqBot: > PING 30 41 b3 0a [binary, 4 bytes][0m
+[0m[2023-05-21 09:42:42,155][MainThread/DEBUG] PyCqBot: < PONG 30 41 b3 0a [binary, 4 bytes][0m
+[0m[2023-05-21 09:42:42,156][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:43:02,172][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:43:02,173][MainThread/DEBUG] PyCqBot: > PING 9c a5 02 35 [binary, 4 bytes][0m
+[0m[2023-05-21 09:43:02,176][MainThread/DEBUG] PyCqBot: < PONG 9c a5 02 35 [binary, 4 bytes][0m
+[0m[2023-05-21 09:43:02,177][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:43:19,769][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:43:19,771][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633399, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 202, 'packet_sent': 178, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:43:19,773][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633399, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 202, 'packet_sent': 178, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:43:22,184][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:43:22,186][MainThread/DEBUG] PyCqBot: > PING 41 7e ee 5e [binary, 4 bytes][0m
+[0m[2023-05-21 09:43:22,189][MainThread/DEBUG] PyCqBot: < PONG 41 7e ee 5e [binary, 4 bytes][0m
+[0m[2023-05-21 09:43:22,190][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:43:42,200][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:43:42,201][MainThread/DEBUG] PyCqBot: > PING '5j\x07m' [text, 4 bytes][0m
+[0m[2023-05-21 09:43:42,204][MainThread/DEBUG] PyCqBot: < PONG '5j\x07m' [text, 4 bytes][0m
+[0m[2023-05-21 09:43:42,205][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:43:59,781][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:43:59,783][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633439, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 203, 'packet_sent': 179, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:43:59,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633439, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 203, 'packet_sent': 179, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:44:02,211][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:44:02,212][MainThread/DEBUG] PyCqBot: > PING 56 41 9d 43 [binary, 4 bytes][0m
+[0m[2023-05-21 09:44:02,215][MainThread/DEBUG] PyCqBot: < PONG 56 41 9d 43 [binary, 4 bytes][0m
+[0m[2023-05-21 09:44:02,216][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:44:22,227][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:44:22,229][MainThread/DEBUG] PyCqBot: > PING 95 d4 47 de [binary, 4 bytes][0m
+[0m[2023-05-21 09:44:22,232][MainThread/DEBUG] PyCqBot: < PONG 95 d4 47 de [binary, 4 bytes][0m
+[0m[2023-05-21 09:44:22,233][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:44:39,773][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684633213}}}\n' [399 bytes][0m
+[0m[2023-05-21 09:44:39,775][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633479, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 205, 'packet_sent': 181, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}}[0m
+[0m[2023-05-21 09:44:39,777][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633479, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 205, 'packet_sent': 181, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}}[0m
+[0m[2023-05-21 09:44:42,233][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:44:42,234][MainThread/DEBUG] PyCqBot: > PING 18 3c e3 51 [binary, 4 bytes][0m
+[0m[2023-05-21 09:44:42,238][MainThread/DEBUG] PyCqBot: < PONG 18 3c e3 51 [binary, 4 bytes][0m
+[0m[2023-05-21 09:44:42,239][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:45:02,246][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:45:02,248][MainThread/DEBUG] PyCqBot: > PING ba 13 e0 67 [binary, 4 bytes][0m
+[0m[2023-05-21 09:45:02,251][MainThread/DEBUG] PyCqBot: < PONG ba 13 e0 67 [binary, 4 bytes][0m
+[0m[2023-05-21 09:45:02,252][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:45:19,777][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:45:19,779][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633519, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 206, 'packet_sent': 182, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:45:19,781][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633519, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 206, 'packet_sent': 182, 'packet_lost': 0, 'message_received': 10, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633213}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:45:22,271][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:45:22,272][MainThread/DEBUG] PyCqBot: > PING 'Y\x0c{6' [text, 4 bytes][0m
+[0m[2023-05-21 09:45:22,276][MainThread/DEBUG] PyCqBot: < PONG 'Y\x0c{6' [text, 4 bytes][0m
+[0m[2023-05-21 09:45:22,277][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:45:42,282][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:45:42,284][MainThread/DEBUG] PyCqBot: > PING 69 f8 10 ca [binary, 4 bytes][0m
+[0m[2023-05-21 09:45:42,288][MainThread/DEBUG] PyCqBot: < PONG 69 f8 10 ca [binary, 4 bytes][0m
+[0m[2023-05-21 09:45:42,289][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:45:48,694][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":2195744473}\n' [600 bytes][0m
+[0m[2023-05-21 09:45:48,695][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684633547, 'self_id': 1209309260, 'sub_type': 'normal', 'font': 0, 'group_id': 778471917, 'message': '[CQ:reply,id=-1858651461][CQ:at,qq=864123769] [CQ:at,qq=864123769] ¬Ú¡Àªπƒ‹¬Ù æÕµ±¥Ê«Æ¡À/ÕÙÕÙ', 'message_id': -1891512349, 'anonymous': None, 'message_seq': 762277, 'raw_message': '[CQ:reply,id=-1858651461][CQ:at,qq=864123769] [CQ:at,qq=864123769] ¬Ú¡Àªπƒ‹¬Ù æÕµ±¥Ê«Æ¡À/ÕÙÕÙ', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '≤ª∑≈¿±Ω∑', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2195744473}, 'user_id': 2195744473}[0m
+[0m[2023-05-21 09:45:59,782][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:45:59,784][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633559, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 209, 'packet_sent': 184, 'packet_lost': 0, 'message_received': 11, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633548}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:45:59,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633559, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 209, 'packet_sent': 184, 'packet_lost': 0, 'message_received': 11, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633548}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:46:01,037][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...qq=1828732235] ±”√ø‰øÀ"}\n' [541 bytes][0m
+[0m[2023-05-21 09:46:01,039][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684633560, 'self_id': 1209309260, 'sub_type': 'normal', 'message_seq': 762278, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '–°¥æ', 'role': 'owner', 'sex': 'unknown', 'title': '', 'user_id': 189964430}, 'user_id': 189964430, 'message_id': 536793714, 'anonymous': None, 'font': 0, 'group_id': 778471917, 'message': '[CQ:reply,id=-1772421470][CQ:at,qq=1828732235] [CQ:at,qq=1828732235] ±”√ø‰øÀ', 'raw_message': '[CQ:reply,id=-1772421470][CQ:at,qq=1828732235] [CQ:at,qq=1828732235] ±”√ø‰øÀ'}[0m
+[0m[2023-05-21 09:46:02,296][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:46:02,298][MainThread/DEBUG] PyCqBot: > PING 29 0e b2 9d [binary, 4 bytes][0m
+[0m[2023-05-21 09:46:02,299][MainThread/DEBUG] PyCqBot: < PONG 29 0e b2 9d [binary, 4 bytes][0m
+[0m[2023-05-21 09:46:02,301][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:46:22,302][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:46:22,303][MainThread/DEBUG] PyCqBot: > PING 8b ac 0d 32 [binary, 4 bytes][0m
+[0m[2023-05-21 09:46:22,306][MainThread/DEBUG] PyCqBot: < PONG 8b ac 0d 32 [binary, 4 bytes][0m
+[0m[2023-05-21 09:46:22,307][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:46:39,772][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...1}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:46:39,773][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633599, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 214, 'packet_sent': 188, 'packet_lost': 0, 'message_received': 12, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633561}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:46:39,775][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633599, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 214, 'packet_sent': 188, 'packet_lost': 0, 'message_received': 12, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633561}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:46:42,314][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:46:42,316][MainThread/DEBUG] PyCqBot: > PING d7 e6 95 ee [binary, 4 bytes][0m
+[0m[2023-05-21 09:46:42,318][MainThread/DEBUG] PyCqBot: < PONG d7 e6 95 ee [binary, 4 bytes][0m
+[0m[2023-05-21 09:46:42,320][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:47:02,323][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:47:02,397][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:47:19,776][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...1}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:47:19,778][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633639, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 215, 'packet_sent': 189, 'packet_lost': 0, 'message_received': 12, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633561}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:47:19,779][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633639, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 215, 'packet_sent': 189, 'packet_lost': 0, 'message_received': 12, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633561}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:47:22,065][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":1828732235}\n' [817 bytes][0m
+[0m[2023-05-21 09:47:22,067][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684633641, 'self_id': 1209309260, 'sub_type': 'normal', 'message_id': 1761207012, 'anonymous': None, 'font': 0, 'message': 'QQ‰Ø¿¿∆˜“≤±®¥Ì[CQ:image,file=a034ed44dc3a7fb3d5645e1ebb70823d.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/1828732235/778471917-2442065348-A034ED44DC3A7FB3D5645E1EBB70823D/0?term=2&amp;is_origin=0]', 'message_seq': 762279, 'raw_message': 'QQ‰Ø¿¿∆˜“≤±®¥Ì[CQ:image,file=a034ed44dc3a7fb3d5645e1ebb70823d.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/1828732235/778471917-2442065348-A034ED44DC3A7FB3D5645E1EBB70823D/0?term=2&amp;is_origin=0]', 'group_id': 778471917, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Mr.K', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1828732235}, 'user_id': 1828732235}[0m
+[0m[2023-05-21 09:47:22,411][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:47:22,412][MainThread/DEBUG] PyCqBot: > PING ec 31 b2 a2 [binary, 4 bytes][0m
+[0m[2023-05-21 09:47:22,414][MainThread/DEBUG] PyCqBot: < PONG ec 31 b2 a2 [binary, 4 bytes][0m
+[0m[2023-05-21 09:47:22,416][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:47:42,426][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:47:42,427][MainThread/DEBUG] PyCqBot: > PING 7f 5d 8b e9 [binary, 4 bytes][0m
+[0m[2023-05-21 09:47:42,430][MainThread/DEBUG] PyCqBot: < PONG 7f 5d 8b e9 [binary, 4 bytes][0m
+[0m[2023-05-21 09:47:42,431][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:47:59,773][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...2}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:47:59,775][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633679, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 217, 'packet_sent': 190, 'packet_lost': 0, 'message_received': 13, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633642}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:47:59,777][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633679, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 217, 'packet_sent': 190, 'packet_lost': 0, 'message_received': 13, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633642}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:48:02,434][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:48:02,436][MainThread/DEBUG] PyCqBot: > PING c7 21 eb 98 [binary, 4 bytes][0m
+[0m[2023-05-21 09:48:02,444][MainThread/DEBUG] PyCqBot: < PONG c7 21 eb 98 [binary, 4 bytes][0m
+[0m[2023-05-21 09:48:02,446][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:48:15,755][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...aw_message":"bjh «À≠∞°"}\n' [405 bytes][0m
+[0m[2023-05-21 09:48:15,756][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684633694, 'self_id': 1209309260, 'sub_type': 'normal', 'group_id': 521255310, 'message': 'bjh «À≠∞°', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Sydrr0', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'message_id': -133516974, 'user_id': 2562312527, 'anonymous': None, 'font': 0, 'message_seq': 41057, 'raw_message': 'bjh «À≠∞°'}[0m
+[0m[2023-05-21 09:48:22,451][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:48:22,452][MainThread/DEBUG] PyCqBot: > PING d7 8c 90 2a [binary, 4 bytes][0m
+[0m[2023-05-21 09:48:22,455][MainThread/DEBUG] PyCqBot: < PONG d7 8c 90 2a [binary, 4 bytes][0m
+[0m[2023-05-21 09:48:22,457][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:48:29,112][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":2562312527}\n' [411 bytes][0m
+[0m[2023-05-21 09:48:29,114][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684633708, 'self_id': 1209309260, 'sub_type': 'normal', 'message_id': 1756736707, 'anonymous': None, 'font': 0, 'group_id': 521255310, 'raw_message': ' ≤√¥±±º´∫¸', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Sydrr0', 'role': 'admin', 'sex': 'unknown', 'title': '', 'user_id': 2562312527}, 'message': ' ≤√¥±±º´∫¸', 'message_seq': 41058, 'user_id': 2562312527}[0m
+[0m[2023-05-21 09:48:39,767][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...9}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:48:39,769][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633719, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 223, 'packet_sent': 194, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:48:39,770][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633719, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 223, 'packet_sent': 194, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:48:42,459][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:48:42,461][MainThread/DEBUG] PyCqBot: > PING ae 05 7c 0a [binary, 4 bytes][0m
+[0m[2023-05-21 09:48:42,464][MainThread/DEBUG] PyCqBot: < PONG ae 05 7c 0a [binary, 4 bytes][0m
+[0m[2023-05-21 09:48:42,465][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:49:02,476][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:49:02,478][MainThread/DEBUG] PyCqBot: > PING 02 ff f7 b5 [binary, 4 bytes][0m
+[0m[2023-05-21 09:49:02,480][MainThread/DEBUG] PyCqBot: < PONG 02 ff f7 b5 [binary, 4 bytes][0m
+[0m[2023-05-21 09:49:02,482][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:49:19,781][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...9}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:49:19,783][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633759, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 225, 'packet_sent': 196, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:49:19,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633759, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 225, 'packet_sent': 196, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:49:22,478][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:49:22,479][MainThread/DEBUG] PyCqBot: > PING e9 e2 7e 49 [binary, 4 bytes][0m
+[0m[2023-05-21 09:49:22,482][MainThread/DEBUG] PyCqBot: < PONG e9 e2 7e 49 [binary, 4 bytes][0m
+[0m[2023-05-21 09:49:22,483][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:49:42,502][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:49:42,516][MainThread/DEBUG] PyCqBot: > PING 8b 59 91 91 [binary, 4 bytes][0m
+[0m[2023-05-21 09:49:42,521][MainThread/DEBUG] PyCqBot: < PONG 8b 59 91 91 [binary, 4 bytes][0m
+[0m[2023-05-21 09:49:42,524][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:49:59,782][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...9}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:49:59,784][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633799, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 226, 'packet_sent': 197, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:49:59,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633799, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 226, 'packet_sent': 197, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:50:02,529][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:50:02,531][MainThread/DEBUG] PyCqBot: > PING 95 7e ae 3f [binary, 4 bytes][0m
+[0m[2023-05-21 09:50:02,533][MainThread/DEBUG] PyCqBot: < PONG 95 7e ae 3f [binary, 4 bytes][0m
+[0m[2023-05-21 09:50:02,534][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:50:22,536][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:50:22,537][MainThread/DEBUG] PyCqBot: > PING bc cd cb 0d [binary, 4 bytes][0m
+[0m[2023-05-21 09:50:22,540][MainThread/DEBUG] PyCqBot: < PONG bc cd cb 0d [binary, 4 bytes][0m
+[0m[2023-05-21 09:50:22,541][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:50:39,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...9}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:50:39,780][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633839, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 228, 'packet_sent': 199, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:50:39,782][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633839, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 228, 'packet_sent': 199, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:50:42,537][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:50:42,538][MainThread/DEBUG] PyCqBot: > PING c6 b2 86 39 [binary, 4 bytes][0m
+[0m[2023-05-21 09:50:42,542][MainThread/DEBUG] PyCqBot: < PONG c6 b2 86 39 [binary, 4 bytes][0m
+[0m[2023-05-21 09:50:42,543][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:51:02,552][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:51:02,554][MainThread/DEBUG] PyCqBot: > PING 77 84 7f 55 [binary, 4 bytes][0m
+[0m[2023-05-21 09:51:02,557][MainThread/DEBUG] PyCqBot: < PONG 77 84 7f 55 [binary, 4 bytes][0m
+[0m[2023-05-21 09:51:02,559][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:51:19,768][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...9}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:51:19,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633879, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 229, 'packet_sent': 200, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:51:19,772][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633879, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 229, 'packet_sent': 200, 'packet_lost': 0, 'message_received': 15, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633709}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:51:20,557][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."message_seq":762280}\n' [778 bytes][0m
+[0m[2023-05-21 09:51:20,558][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684633879, 'self_id': 1209309260, 'sub_type': 'normal', 'font': 0, 'message_id': -1765980529, 'raw_message': '[CQ:image,file=613c2b5e03530941dd31c6c56dfa053d.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/3502141973/778471917-3057335576-613C2B5E03530941DD31C6C56DFA053D/0?term=2&amp;is_origin=0]', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'cxz~', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 3502141973}, 'user_id': 3502141973, 'anonymous': None, 'group_id': 778471917, 'message': '[CQ:image,file=613c2b5e03530941dd31c6c56dfa053d.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/3502141973/778471917-3057335576-613C2B5E03530941DD31C6C56DFA053D/0?term=2&amp;is_origin=0]', 'message_seq': 762280}[0m
+[0m[2023-05-21 09:51:22,565][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:51:22,567][MainThread/DEBUG] PyCqBot: > PING e1 c4 51 0a [binary, 4 bytes][0m
+[0m[2023-05-21 09:51:22,570][MainThread/DEBUG] PyCqBot: < PONG e1 c4 51 0a [binary, 4 bytes][0m
+[0m[2023-05-21 09:51:22,572][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:51:42,578][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:51:42,579][MainThread/DEBUG] PyCqBot: > PING a2 7a e2 96 [binary, 4 bytes][0m
+[0m[2023-05-21 09:51:42,584][MainThread/DEBUG] PyCqBot: < PONG a2 7a e2 96 [binary, 4 bytes][0m
+[0m[2023-05-21 09:51:42,585][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:51:59,769][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:51:59,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633919, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 231, 'packet_sent': 201, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:51:59,775][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633919, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 231, 'packet_sent': 201, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:52:02,595][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:52:02,596][MainThread/DEBUG] PyCqBot: > PING b3 37 cf 42 [binary, 4 bytes][0m
+[0m[2023-05-21 09:52:02,601][MainThread/DEBUG] PyCqBot: < PONG b3 37 cf 42 [binary, 4 bytes][0m
+[0m[2023-05-21 09:52:02,603][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:52:22,604][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:52:22,606][MainThread/DEBUG] PyCqBot: > PING 'W:,\\' [text, 4 bytes][0m
+[0m[2023-05-21 09:52:22,608][MainThread/DEBUG] PyCqBot: < PONG 'W:,\\' [text, 4 bytes][0m
+[0m[2023-05-21 09:52:22,609][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:52:39,768][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:52:39,769][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633959, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 234, 'packet_sent': 204, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:52:39,771][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633959, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 234, 'packet_sent': 204, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:52:42,624][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:52:42,626][MainThread/DEBUG] PyCqBot: > PING b7 60 0b 4e [binary, 4 bytes][0m
+[0m[2023-05-21 09:52:42,627][MainThread/DEBUG] PyCqBot: < PONG b7 60 0b 4e [binary, 4 bytes][0m
+[0m[2023-05-21 09:52:42,629][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:53:02,631][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:53:02,633][MainThread/DEBUG] PyCqBot: > PING a1 c2 69 48 [binary, 4 bytes][0m
+[0m[2023-05-21 09:53:02,635][MainThread/DEBUG] PyCqBot: < PONG a1 c2 69 48 [binary, 4 bytes][0m
+[0m[2023-05-21 09:53:02,637][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:53:19,775][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:53:19,777][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633999, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 235, 'packet_sent': 205, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:53:19,778][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684633999, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 235, 'packet_sent': 205, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:53:22,640][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:53:22,643][MainThread/DEBUG] PyCqBot: > PING d5 be 06 a3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:53:22,647][MainThread/DEBUG] PyCqBot: < PONG d5 be 06 a3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:53:22,648][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:53:42,658][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:53:42,659][MainThread/DEBUG] PyCqBot: > PING 13 53 c6 74 [binary, 4 bytes][0m
+[0m[2023-05-21 09:53:42,662][MainThread/DEBUG] PyCqBot: < PONG 13 53 c6 74 [binary, 4 bytes][0m
+[0m[2023-05-21 09:53:42,663][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:53:59,767][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:53:59,768][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634039, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 236, 'packet_sent': 206, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:53:59,770][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634039, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 236, 'packet_sent': 206, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:54:02,671][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:54:02,672][MainThread/DEBUG] PyCqBot: > PING 6e 96 97 5f [binary, 4 bytes][0m
+[0m[2023-05-21 09:54:02,676][MainThread/DEBUG] PyCqBot: < PONG 6e 96 97 5f [binary, 4 bytes][0m
+[0m[2023-05-21 09:54:02,677][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:54:22,681][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:54:22,682][MainThread/DEBUG] PyCqBot: > PING 7d a1 98 26 [binary, 4 bytes][0m
+[0m[2023-05-21 09:54:22,685][MainThread/DEBUG] PyCqBot: < PONG 7d a1 98 26 [binary, 4 bytes][0m
+[0m[2023-05-21 09:54:22,686][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:54:39,775][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...0}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:54:39,776][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634079, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 240, 'packet_sent': 210, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:54:39,778][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634079, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 240, 'packet_sent': 210, 'packet_lost': 0, 'message_received': 16, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684633880}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:54:42,699][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:54:42,701][MainThread/DEBUG] PyCqBot: > PING 7b 12 aa 3f [binary, 4 bytes][0m
+[0m[2023-05-21 09:54:42,707][MainThread/DEBUG] PyCqBot: < PONG 7b 12 aa 3f [binary, 4 bytes][0m
+[0m[2023-05-21 09:54:42,709][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:55:02,714][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:55:02,715][MainThread/DEBUG] PyCqBot: > PING 'O8/S' [text, 4 bytes][0m
+[0m[2023-05-21 09:55:02,718][MainThread/DEBUG] PyCqBot: < PONG 'O8/S' [text, 4 bytes][0m
+[0m[2023-05-21 09:55:02,719][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:55:04,948][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...,"user_id":909794793}\n' [464 bytes][0m
+[0m[2023-05-21 09:55:04,951][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634104, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'group_id': 778471917, 'raw_message': '/ÕÙÕÙΩÒÃÏ√˜ÃÏœ¬ŒÁ»˝µ„ø¥œ∑', 'message_id': -507873767, 'font': 0, 'message': '/ÕÙÕÙΩÒÃÏ√˜ÃÏœ¬ŒÁ»˝µ„ø¥œ∑', 'message_seq': 762281, 'sender': {'age': 0, 'area': '', 'card': 'ƒæƒæ', 'level': '', 'nickname': '√◊¿œÕ∑', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 909794793}, 'user_id': 909794793}[0m
+[0m[2023-05-21 09:55:19,775][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:55:19,777][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634119, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 242, 'packet_sent': 211, 'packet_lost': 0, 'message_received': 17, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634104}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:55:19,782][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634119, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 242, 'packet_sent': 211, 'packet_lost': 0, 'message_received': 17, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634104}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:55:22,726][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:55:22,790][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:55:42,797][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:55:42,799][MainThread/DEBUG] PyCqBot: > PING fe 6c dd cf [binary, 4 bytes][0m
+[0m[2023-05-21 09:55:42,802][MainThread/DEBUG] PyCqBot: < PONG fe 6c dd cf [binary, 4 bytes][0m
+[0m[2023-05-21 09:55:42,803][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:55:59,780][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...4}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:55:59,782][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634159, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 243, 'packet_sent': 212, 'packet_lost': 0, 'message_received': 17, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634104}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:55:59,783][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634159, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 243, 'packet_sent': 212, 'packet_lost': 0, 'message_received': 17, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634104}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:56:02,805][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:56:02,806][MainThread/DEBUG] PyCqBot: > PING 53 24 b1 e3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:56:02,809][MainThread/DEBUG] PyCqBot: < PONG 53 24 b1 e3 [binary, 4 bytes][0m
+[0m[2023-05-21 09:56:02,811][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:56:14,703][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":1035280536}\n' [417 bytes][0m
+[0m[2023-05-21 09:56:14,705][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634173, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'font': 0, 'group_id': 778471917, 'message': '∏“‘“æÕ∏“≥≠', 'message_seq': 762282, 'message_id': 2025007011, 'raw_message': '∏“‘“æÕ∏“≥≠', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '≤ª…ø«È.', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1035280536}, 'user_id': 1035280536}[0m
+[0m[2023-05-21 09:56:16,725][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...user_id":1035280536}}\n' [782 bytes][0m
+[0m[2023-05-21 09:56:16,727][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634175, 'self_id': 1209309260, 'sub_type': 'normal', 'font': 0, 'message': '[CQ:image,file=35a9a22cadb7a16dd4ed464840aa5d37.image,subType=1,url=https://gchat.qpic.cn/gchatpic_new/1035280536/778471917-2767375698-35A9A22CADB7A16DD4ED464840AA5D37/0?term=2&amp;is_origin=0]', 'user_id': 1035280536, 'message_id': 263460661, 'anonymous': None, 'group_id': 778471917, 'message_seq': 762283, 'raw_message': '[CQ:image,file=35a9a22cadb7a16dd4ed464840aa5d37.image,subType=1,url=https://gchat.qpic.cn/gchatpic_new/1035280536/778471917-2767375698-35A9A22CADB7A16DD4ED464840AA5D37/0?term=2&amp;is_origin=0]', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '≤ª…ø«È.', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 1035280536}}[0m
+[0m[2023-05-21 09:56:22,821][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:56:22,822][MainThread/DEBUG] PyCqBot: > PING '*\x05®µ' [text, 4 bytes][0m
+[0m[2023-05-21 09:56:22,830][MainThread/DEBUG] PyCqBot: < PONG '*\x05®µ' [text, 4 bytes][0m
+[0m[2023-05-21 09:56:22,831][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:56:39,768][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...6}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:56:39,769][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634199, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 248, 'packet_sent': 215, 'packet_lost': 0, 'message_received': 19, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634176}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:56:39,770][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634199, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 248, 'packet_sent': 215, 'packet_lost': 0, 'message_received': 19, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634176}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:56:42,841][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:56:42,842][MainThread/DEBUG] PyCqBot: > PING '\x18\ti|' [text, 4 bytes][0m
+[0m[2023-05-21 09:56:42,845][MainThread/DEBUG] PyCqBot: < PONG '\x18\ti|' [text, 4 bytes][0m
+[0m[2023-05-21 09:56:42,846][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:57:02,848][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:57:02,850][MainThread/DEBUG] PyCqBot: > PING 43 ff 59 5d [binary, 4 bytes][0m
+[0m[2023-05-21 09:57:02,852][MainThread/DEBUG] PyCqBot: < PONG 43 ff 59 5d [binary, 4 bytes][0m
+[0m[2023-05-21 09:57:02,854][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:57:19,778][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...6}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:57:19,779][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634239, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 249, 'packet_sent': 216, 'packet_lost': 0, 'message_received': 19, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634176}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:57:19,781][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634239, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 249, 'packet_sent': 216, 'packet_lost': 0, 'message_received': 19, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634176}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:57:22,851][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:57:22,852][MainThread/DEBUG] PyCqBot: > PING da 94 b2 a4 [binary, 4 bytes][0m
+[0m[2023-05-21 09:57:22,855][MainThread/DEBUG] PyCqBot: < PONG da 94 b2 a4 [binary, 4 bytes][0m
+[0m[2023-05-21 09:57:22,856][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:57:30,778][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...":"∏““ª∏ˆ–«∆⁄«∞≥≠µ◊µƒ¥Û∂‡∂º≤ªª·≈◊µƒ"}\n' [478 bytes][0m
+[0m[2023-05-21 09:57:30,779][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634249, 'self_id': 1209309260, 'sub_type': 'normal', 'raw_message': '∏““ª∏ˆ–«∆⁄«∞≥≠µ◊µƒ¥Û∂‡∂º≤ªª·≈◊µƒ', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Real', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2406925528}, 'user_id': 2406925528, 'message_id': -1848606058, 'font': 0, 'group_id': 778471917, 'message_seq': 762284, 'anonymous': None, 'message': '∏““ª∏ˆ–«∆⁄«∞≥≠µ◊µƒ¥Û∂‡∂º≤ªª·≈◊µƒ'}[0m
+[0m[2023-05-21 09:57:42,861][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:57:42,862][MainThread/DEBUG] PyCqBot: > PING bf b0 66 c8 [binary, 4 bytes][0m
+[0m[2023-05-21 09:57:42,865][MainThread/DEBUG] PyCqBot: < PONG bf b0 66 c8 [binary, 4 bytes][0m
+[0m[2023-05-21 09:57:42,867][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:57:55,071][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...user_id":2017379120}}\n' [412 bytes][0m
+[0m[2023-05-21 09:57:55,072][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634274, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'font': 0, 'message': '/–±—€–¶', 'message_seq': 762285, 'user_id': 2017379120, 'message_id': -422071808, 'group_id': 778471917, 'raw_message': '/–±—€–¶', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '∞Ÿ∑÷÷ÆŒÂ Æ', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2017379120}}[0m
+[0m[2023-05-21 09:57:58,647][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":2017379120}\n' [404 bytes][0m
+[0m[2023-05-21 09:57:58,648][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634277, 'self_id': 1209309260, 'sub_type': 'normal', 'message_seq': 762286, 'raw_message': ' «¬', 'message_id': 2145313722, 'font': 0, 'group_id': 778471917, 'message': ' «¬', 'anonymous': None, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '∞Ÿ∑÷÷ÆŒÂ Æ', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2017379120}, 'user_id': 2017379120}[0m
+[0m[2023-05-21 09:57:59,781][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:57:59,783][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634279, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 253, 'packet_sent': 217, 'packet_lost': 0, 'message_received': 22, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634278}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:57:59,785][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634279, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 253, 'packet_sent': 217, 'packet_lost': 0, 'message_received': 22, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634278}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:58:02,865][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:58:02,866][MainThread/DEBUG] PyCqBot: > PING a8 89 33 49 [binary, 4 bytes][0m
+[0m[2023-05-21 09:58:02,869][MainThread/DEBUG] PyCqBot: < PONG a8 89 33 49 [binary, 4 bytes][0m
+[0m[2023-05-21 09:58:02,870][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:58:16,243][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...877,"anonymous":null}\n' [397 bytes][0m
+[0m[2023-05-21 09:58:16,245][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634295, 'self_id': 1209309260, 'sub_type': 'normal', 'message_id': 148493100, 'message': ' ≤√¥', 'font': 0, 'group_id': 778471917, 'message_seq': 762287, 'raw_message': ' ≤√¥', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '»‚‘≤^_^', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2859135877}, 'user_id': 2859135877, 'anonymous': None}[0m
+[0m[2023-05-21 09:58:20,272][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...ymous":null,"font":0}\n' [425 bytes][0m
+[0m[2023-05-21 09:58:20,273][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634299, 'self_id': 1209309260, 'sub_type': 'normal', 'user_id': 2859135877, 'message_id': -1738092867, 'raw_message': 'Œ“µƒk±¶ÕÀ“€¡À', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '»‚‘≤^_^', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2859135877}, 'group_id': 778471917, 'message': 'Œ“µƒk±¶ÕÀ“€¡À', 'message_seq': 762288, 'anonymous': None, 'font': 0}[0m
+[0m[2023-05-21 09:58:21,732][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...ssage_id":-278790613}\n' [410 bytes][0m
+[0m[2023-05-21 09:58:21,733][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634300, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'font': 0, 'group_id': 778471917, 'message': 'ŒÿŒÿŒÿŒÿ', 'message_seq': 762289, 'raw_message': 'ŒÿŒÿŒÿŒÿ', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '»‚‘≤^_^', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2859135877}, 'user_id': 2859135877, 'message_id': -278790613}[0m
+[0m[2023-05-21 09:58:22,870][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:58:22,872][MainThread/DEBUG] PyCqBot: > PING 09 f3 34 96 [binary, 4 bytes][0m
+[0m[2023-05-21 09:58:22,874][MainThread/DEBUG] PyCqBot: < PONG 09 f3 34 96 [binary, 4 bytes][0m
+[0m[2023-05-21 09:58:22,876][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:58:39,779][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...1}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:58:39,781][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634319, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 258, 'packet_sent': 219, 'packet_lost': 0, 'message_received': 25, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634301}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:58:39,782][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634319, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 258, 'packet_sent': 219, 'packet_lost': 0, 'message_received': 25, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634301}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:58:42,880][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:58:42,881][MainThread/DEBUG] PyCqBot: > PING a0 5b 6b 86 [binary, 4 bytes][0m
+[0m[2023-05-21 09:58:42,885][MainThread/DEBUG] PyCqBot: < PONG a0 5b 6b 86 [binary, 4 bytes][0m
+[0m[2023-05-21 09:58:42,886][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:59:02,901][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:59:02,902][MainThread/DEBUG] PyCqBot: > PING 8c c9 b2 35 [binary, 4 bytes][0m
+[0m[2023-05-21 09:59:02,905][MainThread/DEBUG] PyCqBot: < PONG 8c c9 b2 35 [binary, 4 bytes][0m
+[0m[2023-05-21 09:59:02,907][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:59:03,366][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...sage_id":-1884915762}\n' [458 bytes][0m
+[0m[2023-05-21 09:59:03,367][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634342, 'self_id': 1209309260, 'sub_type': 'normal', 'message_seq': 762290, 'raw_message': '≤ª“ª∂®ΩÒÃÏæÕª·Ωµ', 'user_id': 6727657, 'anonymous': None, 'font': 0, 'group_id': 778471917, 'message': '≤ª“ª∂®ΩÒÃÏæÕª·Ωµ', 'sender': {'age': 0, 'area': '', 'card': 'Valve£®V…Á÷–π˙«¯◊‹¥˙¿Ì£©', 'level': '', 'nickname': 'Valve', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 6727657}, 'message_id': -1884915762}[0m
+[0m[2023-05-21 09:59:19,780][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...3}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:59:19,781][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634359, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 260, 'packet_sent': 220, 'packet_lost': 0, 'message_received': 26, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634343}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:59:19,783][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634359, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 260, 'packet_sent': 220, 'packet_lost': 0, 'message_received': 26, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634343}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:59:22,919][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:59:22,920][MainThread/DEBUG] PyCqBot: > PING '=L\x16]' [text, 4 bytes][0m
+[0m[2023-05-21 09:59:22,923][MainThread/DEBUG] PyCqBot: < PONG '=L\x16]' [text, 4 bytes][0m
+[0m[2023-05-21 09:59:22,925][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:59:29,682][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."message_seq":762291}\n' [481 bytes][0m
+[0m[2023-05-21 09:59:29,683][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634368, 'self_id': 1209309260, 'sub_type': 'normal', 'message': 'π˝¡ΩÃÏø™ ºµ¯“≤ «”–ø…ƒ‹µƒ', 'sender': {'age': 0, 'area': '', 'card': 'Valve£®V…Á÷–π˙«¯◊‹¥˙¿Ì£©', 'level': '', 'nickname': 'Valve', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 6727657}, 'user_id': 6727657, 'font': 0, 'group_id': 778471917, 'raw_message': 'π˝¡ΩÃÏø™ ºµ¯“≤ «”–ø…ƒ‹µƒ', 'message_id': -123648168, 'anonymous': None, 'message_seq': 762291}[0m
+[0m[2023-05-21 09:59:42,947][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 09:59:42,947][MainThread/DEBUG] PyCqBot: > PING 7f 49 77 a9 [binary, 4 bytes][0m
+[0m[2023-05-21 09:59:42,950][MainThread/DEBUG] PyCqBot: < PONG 7f 49 77 a9 [binary, 4 bytes][0m
+[0m[2023-05-21 09:59:42,952][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 09:59:59,781][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...9}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 09:59:59,782][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634399, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 263, 'packet_sent': 222, 'packet_lost': 0, 'message_received': 27, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634369}}, 'interval': 40000}[0m
+[0m[2023-05-21 09:59:59,783][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634399, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 263, 'packet_sent': 222, 'packet_lost': 0, 'message_received': 27, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634369}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:00:02,951][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:00:02,952][MainThread/DEBUG] PyCqBot: > PING a9 1f 21 46 [binary, 4 bytes][0m
+[0m[2023-05-21 10:00:02,955][MainThread/DEBUG] PyCqBot: < PONG a9 1f 21 46 [binary, 4 bytes][0m
+[0m[2023-05-21 10:00:02,956][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:00:22,959][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:00:22,960][MainThread/DEBUG] PyCqBot: > PING 2e 2b fc f4 [binary, 4 bytes][0m
+[0m[2023-05-21 10:00:22,963][MainThread/DEBUG] PyCqBot: < PONG 2e 2b fc f4 [binary, 4 bytes][0m
+[0m[2023-05-21 10:00:22,966][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:00:24,469][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."user_id":2406925528}\n' [445 bytes][0m
+[0m[2023-05-21 10:00:24,471][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634423, 'self_id': 1209309260, 'sub_type': 'normal', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Real', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2406925528}, 'message_id': 1638405858, 'group_id': 778471917, 'message': '…≥∂˛∆ﬂÃÏ∞Ÿ∑÷÷Æ25µƒ¿˚»Û', 'message_seq': 762292, 'raw_message': '…≥∂˛∆ﬂÃÏ∞Ÿ∑÷÷Æ25µƒ¿˚»Û', 'anonymous': None, 'font': 0, 'user_id': 2406925528}[0m
+[0m[2023-05-21 10:00:31,193][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","..."message_seq":762293}\n' [422 bytes][0m
+[0m[2023-05-21 10:00:31,195][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634430, 'self_id': 1209309260, 'sub_type': 'normal', 'message': '”–ø…ƒ‹∫‹∂‡»À≈‹', 'raw_message': '”–ø…ƒ‹∫‹∂‡»À≈‹', 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': 'Real', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 2406925528}, 'anonymous': None, 'group_id': 778471917, 'user_id': 2406925528, 'message_id': 380577396, 'font': 0, 'message_seq': 762293}[0m
+[0m[2023-05-21 10:00:39,770][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...1}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 10:00:39,771][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634439, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 267, 'packet_sent': 224, 'packet_lost': 0, 'message_received': 29, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634431}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:00:39,773][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634439, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 267, 'packet_sent': 224, 'packet_lost': 0, 'message_received': 29, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634431}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:00:42,962][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:00:42,964][MainThread/DEBUG] PyCqBot: > PING fc cd 9e 09 [binary, 4 bytes][0m
+[0m[2023-05-21 10:00:42,967][MainThread/DEBUG] PyCqBot: < PONG fc cd 9e 09 [binary, 4 bytes][0m
+[0m[2023-05-21 10:00:42,969][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:01:02,970][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:01:02,971][MainThread/DEBUG] PyCqBot: > PING '/}\x076' [text, 4 bytes][0m
+[0m[2023-05-21 10:01:02,974][MainThread/DEBUG] PyCqBot: < PONG '/}\x076' [text, 4 bytes][0m
+[0m[2023-05-21 10:01:02,975][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:01:18,674][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"message","message_type":"group","...¡À","user_id":5444850}\n' [444 bytes][0m
+[0m[2023-05-21 10:01:18,676][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® message_group_normal  ¬º˛: {'post_type': 'message', 'message_type': 'group', 'time': 1684634477, 'self_id': 1209309260, 'sub_type': 'normal', 'anonymous': None, 'message_seq': 762294, 'sender': {'age': 0, 'area': '', 'card': '', 'level': '', 'nickname': '±˘¿‰', 'role': 'member', 'sex': 'unknown', 'title': '', 'user_id': 5444850}, 'message_id': -1999916073, 'font': 0, 'group_id': 778471917, 'message': 'ºÕƒÓ∆∑ƒ⁄π∫œ÷‘⁄ ≤√¥º€¡À', 'raw_message': 'ºÕƒÓ∆∑ƒ⁄π∫œ÷‘⁄ ≤√¥º€¡À', 'user_id': 5444850}[0m
+[0m[2023-05-21 10:01:19,771][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 10:01:19,773][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634479, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 269, 'packet_sent': 225, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:01:19,774][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634479, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 269, 'packet_sent': 225, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:01:22,983][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:01:22,984][MainThread/DEBUG] PyCqBot: > PING 68 13 9f b7 [binary, 4 bytes][0m
+[0m[2023-05-21 10:01:22,988][MainThread/DEBUG] PyCqBot: < PONG 68 13 9f b7 [binary, 4 bytes][0m
+[0m[2023-05-21 10:01:22,989][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:01:42,992][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:01:42,994][MainThread/DEBUG] PyCqBot: > PING eb f1 dd 38 [binary, 4 bytes][0m
+[0m[2023-05-21 10:01:42,997][MainThread/DEBUG] PyCqBot: < PONG eb f1 dd 38 [binary, 4 bytes][0m
+[0m[2023-05-21 10:01:42,998][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:01:59,768][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 10:01:59,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634519, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 270, 'packet_sent': 226, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:01:59,771][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634519, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 270, 'packet_sent': 226, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:02:02,999][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:02:03,001][MainThread/DEBUG] PyCqBot: > PING df f1 96 39 [binary, 4 bytes][0m
+[0m[2023-05-21 10:02:03,004][MainThread/DEBUG] PyCqBot: < PONG df f1 96 39 [binary, 4 bytes][0m
+[0m[2023-05-21 10:02:03,005][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:02:23,021][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:02:23,022][MainThread/DEBUG] PyCqBot: > PING 35 fd 0a 43 [binary, 4 bytes][0m
+[0m[2023-05-21 10:02:23,025][MainThread/DEBUG] PyCqBot: < PONG 35 fd 0a 43 [binary, 4 bytes][0m
+[0m[2023-05-21 10:02:23,026][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:02:39,778][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 10:02:39,779][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634559, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 273, 'packet_sent': 229, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:02:39,780][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634559, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 273, 'packet_sent': 229, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:02:43,033][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:02:43,034][MainThread/DEBUG] PyCqBot: > PING 71 23 fb e0 [binary, 4 bytes][0m
+[0m[2023-05-21 10:02:43,036][MainThread/DEBUG] PyCqBot: < PONG 71 23 fb e0 [binary, 4 bytes][0m
+[0m[2023-05-21 10:02:43,038][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:03:03,050][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:03:03,051][MainThread/DEBUG] PyCqBot: > PING 'ﬂ‡t' [text, 4 bytes][0m
+[0m[2023-05-21 10:03:03,054][MainThread/DEBUG] PyCqBot: < PONG 'ﬂ‡t' [text, 4 bytes][0m
+[0m[2023-05-21 10:03:03,055][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:03:19,781][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 10:03:19,782][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634599, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 276, 'packet_sent': 232, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:03:19,784][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634599, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 276, 'packet_sent': 232, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:03:23,056][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:03:23,057][MainThread/DEBUG] PyCqBot: > PING 68 f5 cd fd [binary, 4 bytes][0m
+[0m[2023-05-21 10:03:23,061][MainThread/DEBUG] PyCqBot: < PONG 68 f5 cd fd [binary, 4 bytes][0m
+[0m[2023-05-21 10:03:23,062][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:03:43,068][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:03:43,069][MainThread/DEBUG] PyCqBot: > PING 74 9a 4a 3b [binary, 4 bytes][0m
+[0m[2023-05-21 10:03:43,072][MainThread/DEBUG] PyCqBot: < PONG 74 9a 4a 3b [binary, 4 bytes][0m
+[0m[2023-05-21 10:03:43,073][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:03:59,780][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 10:03:59,781][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634639, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 277, 'packet_sent': 233, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:03:59,783][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634639, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 277, 'packet_sent': 233, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:04:03,074][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:04:03,075][MainThread/DEBUG] PyCqBot: > PING 36 b5 50 92 [binary, 4 bytes][0m
+[0m[2023-05-21 10:04:03,078][MainThread/DEBUG] PyCqBot: < PONG 36 b5 50 92 [binary, 4 bytes][0m
+[0m[2023-05-21 10:04:03,079][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:04:23,089][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:04:23,090][MainThread/DEBUG] PyCqBot: > PING ee 51 ca 84 [binary, 4 bytes][0m
+[0m[2023-05-21 10:04:23,093][MainThread/DEBUG] PyCqBot: < PONG ee 51 ca 84 [binary, 4 bytes][0m
+[0m[2023-05-21 10:04:23,094][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:04:39,769][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...e_time":1684634478}}}\n' [399 bytes][0m
+[0m[2023-05-21 10:04:39,770][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634679, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 278, 'packet_sent': 234, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}}[0m
+[0m[2023-05-21 10:04:39,772][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634679, 'self_id': 1209309260, 'interval': 40000, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 278, 'packet_sent': 234, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}}[0m
+[0m[2023-05-21 10:04:43,112][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:04:43,113][MainThread/DEBUG] PyCqBot: > PING f6 5f d7 0e [binary, 4 bytes][0m
+[0m[2023-05-21 10:04:43,116][MainThread/DEBUG] PyCqBot: < PONG f6 5f d7 0e [binary, 4 bytes][0m
+[0m[2023-05-21 10:04:43,117][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:05:03,120][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:05:03,121][MainThread/DEBUG] PyCqBot: > PING 45 4e fc 1c [binary, 4 bytes][0m
+[0m[2023-05-21 10:05:03,126][MainThread/DEBUG] PyCqBot: < PONG 45 4e fc 1c [binary, 4 bytes][0m
+[0m[2023-05-21 10:05:03,128][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:05:19,776][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 10:05:19,777][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634719, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 280, 'packet_sent': 236, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:05:19,779][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634719, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 280, 'packet_sent': 236, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:05:23,139][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:05:23,141][MainThread/DEBUG] PyCqBot: > PING e0 0a 92 b8 [binary, 4 bytes][0m
+[0m[2023-05-21 10:05:23,143][MainThread/DEBUG] PyCqBot: < PONG e0 0a 92 b8 [binary, 4 bytes][0m
+[0m[2023-05-21 10:05:23,145][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:05:43,159][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:05:43,160][MainThread/DEBUG] PyCqBot: > PING 1a 52 cc cf [binary, 4 bytes][0m
+[0m[2023-05-21 10:05:43,162][MainThread/DEBUG] PyCqBot: < PONG 1a 52 cc cf [binary, 4 bytes][0m
+[0m[2023-05-21 10:05:43,164][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:05:59,772][MainThread/DEBUG] PyCqBot: < TEXT '{"post_type":"meta_event","meta_event_type":"he...8}},"interval":40000}\n' [399 bytes][0m
+[0m[2023-05-21 10:05:59,772][MainThread/DEBUG] PyCqBot: go-cqhttp …œ±® meta_event_heartbeat  ¬º˛: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634759, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 281, 'packet_sent': 237, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:05:59,773][MainThread/DEBUG] PyCqBot: websocket –ƒÃ¯: {'post_type': 'meta_event', 'meta_event_type': 'heartbeat', 'time': 1684634759, 'self_id': 1209309260, 'status': {'app_enabled': True, 'app_good': True, 'app_initialized': True, 'good': True, 'online': True, 'plugins_good': None, 'stat': {'packet_received': 281, 'packet_sent': 237, 'packet_lost': 0, 'message_received': 30, 'message_sent': 6, 'disconnect_times': 0, 'lost_times': 0, 'last_message_time': 1684634478}}, 'interval': 40000}[0m
+[0m[2023-05-21 10:06:03,174][MainThread/DEBUG] PyCqBot: % sending keepalive ping[0m
+[0m[2023-05-21 10:06:03,176][MainThread/DEBUG] PyCqBot: > PING b2 61 8b 7d [binary, 4 bytes][0m
+[0m[2023-05-21 10:06:03,182][MainThread/DEBUG] PyCqBot: < PONG b2 61 8b 7d [binary, 4 bytes][0m
+[0m[2023-05-21 10:06:03,186][MainThread/DEBUG] PyCqBot: % received keepalive pong[0m
+[0m[2023-05-21 10:06:29,904][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê Protocol -> device lock is disable. http api may fail.[0m
+[0m[2023-05-21 10:06:36,776][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê HTTP ∑˛ŒÒ∆˜ π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛£°[0m
+[0m[2023-05-21 10:06:36,777][cqhttp_shell/WARNING] PyCqBot: go-cqhttp æØ∏Ê ’˝œÚ Websocket  π”√¡Àπ˝ ±µƒ≈‰÷√∏Ò Ω£¨«Î∏¸–¬≈‰÷√Œƒº˛[0m
+[0m[2023-05-21 10:06:36,922][MainThread/INFO] PyCqBot: ’˝‘⁄¡¨Ω” go-cqhttp websocket ∑˛ŒÒ[0m
+[0m[2023-05-21 10:06:36,981][MainThread/INFO] PyCqBot: ≥…π¶¡¨Ω” websocket ∑˛ŒÒ! bot qq:1209309260[0m
+[0m[2023-05-21 10:43:13,273][command/INFO] PyCqBot: Ω‰ﬂ£∏Á£®÷ªø¥≤ªﬂ££© (qq=2477550140,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 10:43:17,983][command/INFO] PyCqBot: ∞◊ø™ÀÆ‘ı√¥√ªŒ∂∞° (qq=1340703828,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 11:01:29,221][command/INFO] PyCqBot: £®¥æ∏Á”¿∑€£© (qq=2693141349,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 11:42:28,671][command/INFO] PyCqBot: Ω‰ﬂ£∏Á£®÷ªø¥≤ªﬂ££© (qq=2477550140,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 11:42:36,159][command/INFO] PyCqBot: ∞◊ø™ÀÆ‘ı√¥√ªŒ∂∞° (qq=1340703828,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 11:55:31,471][command/INFO] PyCqBot: Ω‰ﬂ£∏Á£®÷ªø¥≤ªﬂ££© (qq=2477550140,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 11:59:07,509][command/INFO] PyCqBot: Ω‰ﬂ£∏Á£®÷ªø¥≤ªﬂ££© (qq=2477550140,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 12:09:25,837][command/INFO] PyCqBot: “ÂŒﬁ‘Ÿ»Ë (qq=350289865,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 12:11:16,361][command/INFO] PyCqBot: ¥Û Û¿œ ¶ (qq=2665567313,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 12:12:26,589][command/INFO] PyCqBot: ∂˛ Æ∞Àª≠…˙ (qq=2140852913,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 12:12:45,477][command/INFO] PyCqBot: ◊‘”√∏Á (qq=858435834,»∫∫≈=778471917)  π”√÷∏¡Ó: 6[0m
+[0m[2023-05-21 12:12:48,249][MainThread/INFO] PyCqBot: Ω” ’µΩ at bot Valve£®V…Á÷–π˙«¯◊‹¥˙¿Ì£© (qq=6727657,»∫∫≈=778471917) [0m
+[0m[2023-05-21 12:12:59,294][command/INFO] PyCqBot: ∂˛ Æ∞Àª≠…˙ (qq=2140852913,»∫∫≈=778471917)  π”√÷∏¡Ó: 6 [0m
